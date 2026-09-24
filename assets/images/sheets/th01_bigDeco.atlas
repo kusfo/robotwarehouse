@@ -1,0 +1,61 @@
+
+th01_bigDeco.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+04
+  rotate: false
+  xy: 0, 8
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 98, 8
+  size: 96, 78
+  orig: 96, 78
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 196, 19
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 294, 19
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 392, 19
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 490, 19
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 588, 0
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 654, 0
+  size: 64, 86
+  orig: 64, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,30 @@
+{
+  pages:[
+    {
+      textReference: dialog_baseEpisodes_completed_a
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_baseEpisodes_completed_b,
+      pose: celebrating,
+      events:[]
+    }
+    {
+      textReference: dialog_baseEpisodes_completed_c
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_baseEpisodes_completed_d
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_baseEpisodes_completed_e,
+      pose: celebrating,
+      events:[]
+    }
+  ]
+  side: left
+}

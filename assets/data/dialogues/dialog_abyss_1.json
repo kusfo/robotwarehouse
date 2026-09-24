@@ -1,0 +1,24 @@
+{
+  pages:[
+    {
+      textReference: dialog_abyss_1_a
+      pose: worried
+      events:[
+        {
+          event: game_zone_fade_in
+        }
+      ]
+    }
+    {
+      textReference: dialog_abyss_1_b
+      pose: worried
+      events:[]
+    }
+    {
+      textReference: dialog_abyss_1_c
+      pose: worried
+      events:[]
+    }
+  ]
+  side: left
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "741027618331",
+    "firebase_url": "https://robotwarehouse-pro.firebaseio.com",
+    "project_id": "robotwarehouse-pro",
+    "storage_bucket": "robotwarehouse-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741027618331:android:4f952c25c4bc237f0e22be",
+        "android_client_info": {
+          "package_name": "com.teenagemutantninjacoders.robotwarehouse.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741027618331-9vtvfecdah773eva9sr49rustngvlj4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZKYwLiN_jtX52UWmjTAi6F0ysHsPkN0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741027618331-9vtvfecdah773eva9sr49rustngvlj4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

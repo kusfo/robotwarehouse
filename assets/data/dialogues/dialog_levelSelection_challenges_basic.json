@@ -1,0 +1,39 @@
+{
+  pages:[
+    {
+      textReference: dialog_levelSelection_challenges_basic_a
+      pose: neutral
+      events:[
+        {
+          event: pause_event
+          value1: 0.5
+        }
+        {
+          event: map_move_to_position
+          value1: 360
+          value2: 3
+        }
+        {
+          event: show_right_arrow,
+          value1: 308
+          value2: 148
+        }
+      ]
+    }
+    {
+      textReference: dialog_levelSelection_challenges_basic_b
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_levelSelection_challenges_basic_c
+      pose: showing
+      events:[
+        {
+          event: remove_arrow
+        }
+      ]
+    }
+  ],
+  side: left
+}

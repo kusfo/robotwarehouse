@@ -1,0 +1,15 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstExplosiveRobots_a
+      pose: worried
+      events:[]
+    }
+    {
+      textReference: dialog_firstExplosiveRobots_b
+      pose: worried
+      events:[]
+    }
+  ],
+  side: left
+}

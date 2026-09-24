@@ -1,0 +1,10 @@
+{
+  singleview: true
+  subEvents:
+  [
+      {
+        type: dialogue
+        id: dialog_improveScore
+      }      
+  ]
+}

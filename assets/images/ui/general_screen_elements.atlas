@@ -1,0 +1,33 @@
+
+general_screen_elements.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rotatingLines
+  rotate: false
+  xy: 0, 128
+  size: 596, 586
+  orig: 596, 586
+  offset: 0, 0
+  index: -1
+floatingTextFrame
+  rotate: false
+  xy: 0, 64
+  size: 548, 62
+  orig: 548, 62
+  offset: 0, 0
+  index: 1
+floatingTextFrame
+  rotate: false
+  xy: 0, 0
+  size: 548, 62
+  orig: 548, 62
+  offset: 0, 0
+  index: 2
+pixel
+  rotate: false
+  xy: 598, 713
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+{
+  singleview: true
+  subEvents: [
+      {
+        type: dialogue
+        id: dialog_rotatingFloors
+      }
+      {
+        type: tutorial
+        id: tutorial8
+      }
+  ]
+}

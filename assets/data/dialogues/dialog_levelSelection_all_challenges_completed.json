@@ -1,0 +1,25 @@
+{
+  pages:[
+    {
+      textReference: dialog_levelSelection_all_challenges_completed_a
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_levelSelection_all_challenges_completed_b
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_levelSelection_all_challenges_completed_c
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_levelSelection_all_challenges_completed_d
+      pose: neutral
+      events:[]
+    }
+  ]
+  side: right
+}

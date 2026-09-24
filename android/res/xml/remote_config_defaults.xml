@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>admob_lapse_cycle</key>
+        <value>5</value>
+    </entry>
+    <entry>
+        <key>rateapp_lapse_time</key>
+        <value>5</value>
+    </entry>
+    <entry>
+        <key>rateapp_lapse_sequence</key>
+        <value>10</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

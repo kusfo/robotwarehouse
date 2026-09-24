@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="achievement_board_error">Cannot Connect to Achievements Screen</string>
+    <string name="play_signin_error">Error signIn to Google Game Services</string>
+    <string name="rate_notification_ticker">Rate RobotWarehouse</string>
+    <string name="rate_notification_title">Do you like our game?</string>
+    <string name="rate_notification_body">Rate it on the store!</string>
+    <string name="rate_notification_yes_action">Yes</string>
+    <string name="rate_notification_no_action">No</string>
+    <string name="rate_notification_later_action">Later</string>
+    <string name="score_leaderboard_error">Cannot Connect to LeaderBoard</string>
+    <string name="notification_channel_name">Robot Warehouse</string>
+    <string name="notification_channel_description">Robot Warehouse information</string>
+</resources>

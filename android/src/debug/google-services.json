@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819756198594",
+    "firebase_url": "https://robotwarehouse-dev-52339642.firebaseio.com",
+    "project_id": "robotwarehouse-dev-52339642",
+    "storage_bucket": "robotwarehouse-dev-52339642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819756198594:android:ea48425d46adc4d5",
+        "android_client_info": {
+          "package_name": "com.teenagemutantninjacoders.robotwarehouse.android.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819756198594-ms9v891a1oo12nbjuk2luq5k4grbcv5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teenagemutantninjacoders.robotwarehouse.android.dev",
+            "certificate_hash": "dec86c3c7fcdac7e5c68d0c5cf1f2d5427c5290f"
+          }
+        },
+        {
+          "client_id": "819756198594-n7l6qb6io6tgefu4uepgi9hpivm9gvcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuYY7_NNLI-jB2yid6cZm2CCNsYuWEyxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819756198594-n7l6qb6io6tgefu4uepgi9hpivm9gvcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

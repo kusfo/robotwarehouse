@@ -1,0 +1,31 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstCannon_a
+      pose: neutral
+      events:[
+        {
+          event: game_zone_fade_in
+        },
+        {
+          event: cannon_shoot
+        }
+      ]
+    }
+    {
+      textReference: dialog_nothing
+      pose: worried,
+      events:[]
+      waitTime: 4.5f
+      automatic: true
+    }
+    {
+      textReference: dialog_firstCannon_b
+      pose: discouraged,
+      events:[]
+    }
+  ],
+  side: left,
+  bubbleType: 2,
+  bubbleDespY: 50
+}

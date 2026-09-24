@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="achievement_board_error">No se puede conectar a la pantalla de logros</string>
+    <string name="play_signin_error">Error accediendo a Google Game Services</string>
+    <string name="rate_notification_ticker">Valora RobotWarehouse</string>
+    <string name="rate_notification_title">¿Te gusta nuestro juego?</string>
+    <string name="rate_notification_body">¡Puntúalo en la Play Store!</string>
+    <string name="rate_notification_yes_action">Si</string>
+    <string name="rate_notification_no_action">No</string>
+    <string name="rate_notification_later_action">Más tarde</string>
+    <string name="score_leaderboard_error">No se puede conectar a la tabla de records</string>
+    <string name="notification_channel_name">Robot Warehouse</string>
+    <string name="notification_channel_description">Información de Robot Warehouse</string>
+</resources>

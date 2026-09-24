@@ -1,0 +1,68 @@
+
+fx_powerSparkDisplay.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+begin
+  rotate: false
+  xy: 0, 808
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 0
+begin
+  rotate: false
+  xy: 0, 606
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 1
+ending
+  rotate: false
+  xy: 402, 808
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 0
+ending
+  rotate: false
+  xy: 0, 404
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 1
+ending
+  rotate: false
+  xy: 402, 606
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 2
+ending
+  rotate: false
+  xy: 0, 202
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 3
+loop
+  rotate: false
+  xy: 402, 404
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 0
+loop
+  rotate: false
+  xy: 0, 0
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 1
+loop
+  rotate: false
+  xy: 402, 202
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: 2

@@ -1,0 +1,21 @@
+{
+  pages:[
+    {
+      textReference: dialog_levelSelection_basic_1_a
+      pose: neutral
+      events: [
+        {
+          event: map_move_to_position
+          value1: 30
+          value2: 14
+        }
+      ]
+    }
+    {
+      textReference: dialog_levelSelection_basic_1_b
+      pose: showing
+      events:[]
+    }
+  ]
+  side: right
+}

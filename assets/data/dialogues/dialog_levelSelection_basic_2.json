@@ -1,0 +1,15 @@
+{
+  pages:[
+    {
+      textReference: dialog_levelSelection_basic_2_a
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_levelSelection_basic_2_b
+      pose: neutral
+      events:[]
+    }
+  ]
+  side: right
+}

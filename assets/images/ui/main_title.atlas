@@ -1,0 +1,138 @@
+
+main_title.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 0, 394
+  size: 640, 384
+  orig: 640, 384
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 0, 208
+  size: 453, 184
+  orig: 453, 184
+  offset: 0, 0
+  index: -1
+option_frame
+  rotate: false
+  xy: 642, 699
+  size: 345, 79
+  orig: 345, 79
+  offset: 0, 0
+  index: -1
+option_screen
+  rotate: false
+  xy: 0, 162
+  size: 325, 44
+  orig: 325, 44
+  offset: 0, 0
+  index: 1
+option_screen
+  rotate: false
+  xy: 642, 653
+  size: 325, 44
+  orig: 325, 44
+  offset: 0, 0
+  index: 2
+option_screen
+  rotate: false
+  xy: 0, 116
+  size: 325, 44
+  orig: 325, 44
+  offset: 0, 0
+  index: 3
+option_screen
+  rotate: false
+  xy: 642, 607
+  size: 325, 44
+  orig: 325, 44
+  offset: 0, 0
+  index: 4
+button_config
+  rotate: false
+  xy: 455, 333
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: 1
+button_config
+  rotate: false
+  xy: 327, 147
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: 2
+button_account_off
+  rotate: false
+  xy: 0, 58
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: 1
+button_account_off
+  rotate: false
+  xy: 642, 549
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: 2
+button_account_on
+  rotate: false
+  xy: 455, 275
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: 1
+button_account_on
+  rotate: false
+  xy: 516, 336
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: 2
+button_account_on_offline
+  rotate: false
+  xy: 388, 150
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: 1
+button_account_on_offline
+  rotate: false
+  xy: 0, 0
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: 2
+button_achievements
+  rotate: false
+  xy: 59, 56
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: 1
+button_achievements
+  rotate: false
+  xy: 642, 489
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: 2
+mnc_miniLogo_button
+  rotate: false
+  xy: 701, 556
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: 1
+mnc_miniLogo_button
+  rotate: false
+  xy: 455, 224
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: 2

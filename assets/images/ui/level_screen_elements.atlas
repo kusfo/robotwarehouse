@@ -1,0 +1,145 @@
+
+level_screen_elements.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+powerDisplayGradient
+  rotate: false
+  xy: 0, 398
+  size: 502, 96
+  orig: 502, 96
+  offset: 0, 0
+  index: -1
+icon_challengeObtention_medal
+  rotate: false
+  xy: 0, 227
+  size: 135, 169
+  orig: 135, 169
+  offset: 0, 0
+  index: -1
+powerCog
+  rotate: false
+  xy: 137, 246
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 1
+powerCog
+  rotate: false
+  xy: 289, 246
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 2
+powerCog
+  rotate: false
+  xy: 0, 75
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 3
+powerCog
+  rotate: false
+  xy: 152, 94
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: 4
+icon_powerFumigation
+  rotate: false
+  xy: 304, 107
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+gameOver_textFrame_a
+  rotate: false
+  xy: 504, 421
+  size: 165, 73
+  orig: 165, 73
+  offset: 0, 0
+  index: -1
+start_textFrame_a
+  rotate: false
+  xy: 671, 421
+  size: 165, 73
+  orig: 165, 73
+  offset: 0, 0
+  index: -1
+icon_powerShortCircuit
+  rotate: false
+  xy: 838, 357
+  size: 137, 137
+  orig: 137, 137
+  offset: 0, 0
+  index: -1
+start_textFrame_d
+  rotate: false
+  xy: 0, 0
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+icon_challengePanel_G
+  rotate: false
+  xy: 441, 293
+  size: 78, 103
+  orig: 78, 103
+  offset: 0, 0
+  index: -1
+event_arrow
+  rotate: false
+  xy: 521, 334
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+gameOver_textFrame_b
+  rotate: false
+  xy: 608, 365
+  size: 97, 54
+  orig: 97, 54
+  offset: 0, 0
+  index: -1
+start_textFrame_b
+  rotate: false
+  xy: 441, 252
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+start_textFrame_c
+  rotate: false
+  xy: 521, 293
+  size: 75, 39
+  orig: 75, 39
+  offset: 0, 0
+  index: -1
+icon_challengeObtention_star
+  rotate: false
+  xy: 707, 365
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+grad_textGameOver
+  rotate: false
+  xy: 977, 414
+  size: 1, 80
+  orig: 1, 80
+  offset: 0, 0
+  index: -1
+grad_textNivel
+  rotate: false
+  xy: 980, 414
+  size: 1, 80
+  orig: 1, 80
+  offset: 0, 0
+  index: -1
+boxDisabledCross
+  rotate: false
+  xy: 608, 337
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,66 @@
+{
+  pages:[
+    {
+      textReference: dialog_improveScore_a
+      pose: neutral
+      events: []
+    }
+    {
+      textReference: dialog_improveScore_b
+      pose: neutral
+      events: []
+    }
+    {
+      textReference: dialog_improveScore_c,
+      pose: showing
+      events: [
+        {
+          event: deploy_scorePanels
+        }
+        {
+          event: show_up_arrow,
+          value1: 542
+          value2: 334
+        }
+      ]
+    }
+    {
+      textReference: dialog_improveScore_d,
+      pose: neutral,
+      events:
+      [
+        {
+          event: remove_arrow
+        }
+        {
+          event: show_up_arrow,
+          value1: 194
+          value2: 334
+        }
+      ],
+    }
+    {
+      textReference: dialog_improveScore_e,
+      pose: celebrating
+      events:[
+        {
+          event: remove_arrow
+        },
+        {
+          event: retract_scorePanels
+        },
+        {
+          event: game_zone_fade_in
+        },
+        {
+          event: show_left_arrow
+          value1: 464
+          value2: 240
+        }
+      ]
+    }
+  ],
+  side: left,
+  bubbleDespY: -150
+}
+

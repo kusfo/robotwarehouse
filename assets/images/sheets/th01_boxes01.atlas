@@ -1,0 +1,82 @@
+
+th01_boxes01.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boxSpark
+  rotate: false
+  xy: 0, 0
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 1
+boxSpark
+  rotate: false
+  xy: 52, 0
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 2
+boxSpark
+  rotate: false
+  xy: 104, 0
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 3
+boxFlash
+  rotate: false
+  xy: 156, 5
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+blueBox
+  rotate: false
+  xy: 198, 13
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+blueBoxShine
+  rotate: false
+  xy: 232, 13
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+greyBox
+  rotate: false
+  xy: 266, 13
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+redBox
+  rotate: false
+  xy: 300, 13
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+redBoxShine
+  rotate: false
+  xy: 334, 13
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+yellowBox
+  rotate: false
+  xy: 368, 13
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+yellowBoxShine
+  rotate: false
+  xy: 402, 13
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1

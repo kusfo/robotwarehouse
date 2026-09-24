@@ -1,0 +1,20 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstBarriers_a
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_firstBarriers_b,
+      pose: neutral,
+      events:[]
+    }
+    {
+      textReference: dialog_firstBarriers_c
+      pose: worried,
+      events:[]
+    }
+  ],
+  side: left
+}

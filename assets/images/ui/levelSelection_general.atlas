@@ -1,0 +1,402 @@
+
+levelSelection_general.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame
+  rotate: false
+  xy: 0, 669
+  size: 763, 351
+  orig: 763, 351
+  offset: 0, 0
+  index: -1
+screenLines
+  rotate: false
+  xy: 0, 358
+  size: 549, 309
+  orig: 549, 309
+  offset: 0, 0
+  index: 1
+screenLines
+  rotate: false
+  xy: 0, 47
+  size: 549, 309
+  orig: 549, 309
+  offset: 0, 0
+  index: 2
+spaceBackground
+  rotate: false
+  xy: 551, 283
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+frame_title
+  rotate: false
+  xy: 551, 174
+  size: 443, 107
+  orig: 443, 107
+  offset: 0, 0
+  index: 1
+screen_title
+  rotate: false
+  xy: 0, 15
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: 1
+screen_title
+  rotate: false
+  xy: 551, 142
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: 2
+screen_title
+  rotate: false
+  xy: 551, 110
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: 3
+screen_title
+  rotate: false
+  xy: 551, 78
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: 4
+frame_stars
+  rotate: false
+  xy: 765, 923
+  size: 213, 97
+  orig: 213, 97
+  offset: 0, 0
+  index: 1
+mapBackground
+  rotate: false
+  xy: 765, 751
+  size: 98, 170
+  orig: 98, 170
+  offset: 0, 0
+  index: -1
+episodeComplete_level
+  rotate: false
+  xy: 865, 787
+  size: 121, 134
+  orig: 121, 134
+  offset: 0, 0
+  index: -1
+screen_stars
+  rotate: false
+  xy: 551, 46
+  size: 169, 30
+  orig: 169, 30
+  offset: 0, 0
+  index: 1
+screen_stars
+  rotate: false
+  xy: 722, 46
+  size: 169, 30
+  orig: 169, 30
+  offset: 0, 0
+  index: 2
+backButtonArm
+  rotate: false
+  xy: 765, 671
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+decoBackground
+  rotate: false
+  xy: 882, 675
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 937, 584
+  size: 81, 89
+  orig: 81, 89
+  offset: 0, 0
+  index: 1
+effect
+  rotate: false
+  xy: 937, 494
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: 2
+episodeComplete_check
+  rotate: false
+  xy: 937, 420
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1
+challengeStar
+  rotate: false
+  xy: 937, 341
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+blockingStar
+  rotate: false
+  xy: 952, 115
+  size: 61, 57
+  orig: 61, 57
+  offset: 0, 0
+  index: -1
+episodeComplete_star_B
+  rotate: false
+  xy: 937, 291
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+challengesCompletedStars
+  rotate: false
+  xy: 893, 15
+  size: 109, 61
+  orig: 109, 61
+  offset: 0, 0
+  index: -1
+levelStars
+  rotate: false
+  xy: 401, 18
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: 0
+screen_stars
+  rotate: false
+  xy: 456, 14
+  size: 169, 30
+  orig: 169, 30
+  offset: 0, 0
+  index: 3
+screen_stars
+  rotate: false
+  xy: 627, 14
+  size: 169, 30
+  orig: 169, 30
+  offset: 0, 0
+  index: 4
+levelStars
+  rotate: false
+  xy: 952, 86
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: 1
+levelStars
+  rotate: false
+  xy: 798, 17
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: 2
+levelLink
+  rotate: false
+  xy: 798, 0
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: 0
+linkArrows
+  rotate: false
+  xy: 853, 24
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: 1
+episodeComplete_star_M
+  rotate: false
+  xy: 980, 987
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+movingStar
+  rotate: false
+  xy: 980, 952
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+linkArrows
+  rotate: false
+  xy: 980, 930
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: 2
+linkArrows
+  rotate: false
+  xy: 853, 2
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: 3
+levelStarChallenge
+  rotate: false
+  xy: 988, 900
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: 0
+levelStarChallenge
+  rotate: false
+  xy: 988, 870
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: 1
+episodeComplete_star_S
+  rotate: false
+  xy: 988, 840
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+levelLink
+  rotate: false
+  xy: 401, 1
+  size: 48, 15
+  orig: 48, 15
+  offset: 0, 0
+  index: 1
+linkArrows
+  rotate: false
+  xy: 980, 765
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: 4
+linkArrows
+  rotate: false
+  xy: 980, 743
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: 5
+
+levelSelection_general2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+screenLines
+  rotate: false
+  xy: 0, 667
+  size: 549, 309
+  orig: 549, 309
+  offset: 0, 0
+  index: 3
+screenLines
+  rotate: false
+  xy: 0, 356
+  size: 549, 309
+  orig: 549, 309
+  offset: 0, 0
+  index: 4
+effect
+  rotate: false
+  xy: 551, 850
+  size: 114, 126
+  orig: 114, 126
+  offset: 0, 0
+  index: 3
+levelBackground
+  rotate: false
+  xy: 0, 244
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+levelBackgroundSpecial
+  rotate: false
+  xy: 551, 738
+  size: 96, 110
+  orig: 96, 110
+  offset: 0, 0
+  index: -1
+levelButton_blockeByChallenges
+  rotate: false
+  xy: 667, 880
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+levelButton_blocked
+  rotate: false
+  xy: 0, 146
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+levelButton_blockedBase
+  rotate: false
+  xy: 98, 258
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+levelButton_completed
+  rotate: false
+  xy: 551, 640
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 1
+levelButton_completed
+  rotate: false
+  xy: 757, 880
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 2
+levelButton_new
+  rotate: false
+  xy: 0, 48
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 1
+levelButton_new
+  rotate: false
+  xy: 188, 258
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 2
+rankStar
+  rotate: false
+  xy: 551, 561
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: -1
+buttonBack
+  rotate: false
+  xy: 847, 930
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 1
+buttonBack
+  rotate: false
+  xy: 0, 0
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 2
+levelStars
+  rotate: false
+  xy: 667, 851
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: 3

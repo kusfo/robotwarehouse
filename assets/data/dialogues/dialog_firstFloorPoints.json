@@ -1,0 +1,33 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstFloorPoints_a
+      pose: showing
+      events:[
+        {
+          event: game_zone_fade_in
+        },
+        {
+          event: show_left_arrow
+          value1: 432
+          value2: 112
+        }
+      ]
+    }
+    {
+      textReference: dialog_firstFloorPoints_b
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_firstFloorPoints_c
+      pose: celebrating
+      events:[
+        {
+          event: remove_arrow
+        }
+      ]
+    }
+  ],
+  side: left
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Achievements tracks-->
+    <!-- achievement Newbie -->
+    <string name="firstLevelDoneAchievement" translatable="false">FirstLevelDoneTrack</string>
+    <!-- achievement Recycler -->
+    <string name="firstRobotKilledAchievement" translatable="false">FirstRobotKilledTrack</string>
+    <!-- achievement Scrapper -->
+    <string name="tenRobotsKilledOneLevelAchievement" translatable="false">tenRobotsKilledOneLevelTrack</string>
+    <!-- achievement Sharah Connor -->
+    <string name="twentyRobotsKilledOneLevelAchievement" translatable="false">twentyRobotsKilledOneLevelTrack</string>
+    <!-- achievement John Connor -->
+    <string name="thirtyRobotsKilledOnelevelAchievement" translatable="false">thirtyRobotsKilledOnelevelTrack</string>
+    <!-- achievement Greedy -->
+    <string name="firstAllFloorPointsCollectedAchievement" translatable="false">firstAllFloorPointsCollectedTrack</string>
+    <!-- achievement Ace in the sleeve -->
+    <string name="firstPowerUsedAchievement" translatable="false">firstPowerUsedTrack</string>
+    <!-- achievement Space Matters -->
+    <string name="firstEpisodeCompletedAchievement" translatable="false">firstEpisodeCompletedTrack</string>
+    <!-- achievement We, Robots -->
+    <string name="secondEpisodeCompletedAchievement" translatable="false">secondEpisodeCompletedTrack</string>
+    <!-- achievement Laser Code -->
+    <string name="thirdEpisodeCompletedAchievement" translatable="false">thirdEpisodeCompletedTrack</string>
+    <!-- achievement Alien problem -->
+    <string name="fourthEpisodeCompletedAchievement" translatable="false">fourthEpisodeCompletedTrack</string>
+    <!-- achievement Warehouse operator -->
+    <string name="onehundredBoxesTeleportedAchievement" translatable="false">onehundredBoxesTeleportedTrack</string>
+    <!-- achievement Space Trucker -->
+    <string name="fivehundredBoxesTeleportedAchievement" translatable="false">fivehundredBoxesTeleportedTrack</string>
+    <!-- achievement Star Freighter -->
+    <string name="onethousandBoxesTeleportedAchievement" translatable="false">onethousandBoxesTeleportedTrack</string>
+    <!-- achievement A Star Is Born -->
+    <string name="firstStarLevelUnblockedAchievement" translatable="false">firstStarLevelUnblockedTrack</string>
+    <!-- achievement It Was Not So Hard -->
+    <string name="oneChallengeCompletedAchievement" translatable="false">oneChallengeCompletedTrack</string>
+    <!-- achievement What Challenges? -->
+    <string name="fiveChallengeCompletedAchievement" translatable="false">fiveChallengeCompletedTrack</string>
+    <!-- achievement Who is Next? -->
+    <string name="tenChallengeCompletedAchievement" translatable="false">tenChallengeCompletedTrack</string>
+    <!-- achievement Whatever it takes -->
+    <string name="fifteenChallengeCompletedAchievement" translatable="false">fifteenChallengeCompletedTrack</string>
+    <!-- achievement Challenging attitude -->
+    <string name="allEpisodeChallengesCompletedAchievement" translatable="false">allEpisodeChallengesCompletedTrack</string>
+    <!-- achievement Space Matters Pro -->
+    <string name="firstEpisodeOneHundredCompletedAchievement" translatable="false">firstEpisodeOneHundredCompletedTrack</string>
+    <!-- achievement We, Robots Pro -->
+    <string name="secondEpisodeOneHundredCompletedAchievement" translatable="false">secondEpisodeOneHundredCompletedTrack</string>
+    <!-- achievement Laser Code Pro -->
+    <string name="thirdEpisodeOneHundredCompletedAchievement" translatable="false">thirdEpisodeOneHundredCompletedTrack</string>
+    <!-- achievement Alien problem Pro -->
+    <string name="fourthEpisodeOneHundredCompletedAchievement" translatable="false">fourthEpisodeOneHundredCompletedTrack</string>
+    <!-- achievement Strike! -->
+    <string name="threeRobotsKilledWithOneBoxAchievement" translatable="false">threeRobotsKilledWithOneBoxTrack</string>
+    <!-- achievement Experimental operator -->
+    <string name="oneExperimentalLevelCompletedAchievement" translatable="false">oneExperimentalLevelCompletedTrack</string>
+    <!-- achievement Advanced Experimental Operator -->
+    <string name="fiveExperimentalLevelCompletedAchievement" translatable="false">fiveExperimentalLevelCompletedTrack</string>
+    <!-- achievement Expert Experimental Operator -->
+    <string name="tenExperimentalLevelCompletedAchievement" translatable="false">tenExperimentalLevelCompletedTrack</string>
+    <!--End of achievements-->
+    <string name="firebase_admob_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="firebase_admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="leaderboard_highest_1">CgkIrvLv5PcIEAIQBg</string>
+    <string name="playstore_url">"https://play.google.com/store/apps/details?id=com.teenagemutantninjacoders.robotwarehouse.android"</string>
+    <string name="default_notification_channel_id">ROBOTWAREHOUSE_NOTIFICATION_CHANNEL</string>
+</resources>

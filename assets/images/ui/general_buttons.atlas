@@ -1,0 +1,243 @@
+
+general_buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+panelTextButtonWide
+  rotate: false
+  xy: 0, 194
+  size: 159, 40
+  orig: 159, 40
+  offset: 0, 0
+  index: 1
+panelTextButtonWide
+  rotate: false
+  xy: 0, 152
+  size: 159, 40
+  orig: 159, 40
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_restart
+  rotate: false
+  xy: 161, 160
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_restart
+  rotate: false
+  xy: 0, 76
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_selection
+  rotate: false
+  xy: 237, 160
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_selection
+  rotate: false
+  xy: 0, 0
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_cloud_state0
+  rotate: false
+  xy: 76, 86
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_cloud_state0
+  rotate: false
+  xy: 313, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_cloud_state1
+  rotate: false
+  xy: 76, 20
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_cloud_state1
+  rotate: false
+  xy: 380, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_eraseCloud
+  rotate: false
+  xy: 447, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_eraseCloud
+  rotate: false
+  xy: 514, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_music_state0
+  rotate: false
+  xy: 581, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_music_state0
+  rotate: false
+  xy: 648, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_music_state1
+  rotate: false
+  xy: 715, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_music_state1
+  rotate: false
+  xy: 782, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_music_state2
+  rotate: false
+  xy: 849, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_music_state2
+  rotate: false
+  xy: 916, 170
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_music_state3
+  rotate: false
+  xy: 143, 86
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_music_state3
+  rotate: false
+  xy: 143, 20
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_sound_state0
+  rotate: false
+  xy: 210, 94
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_sound_state0
+  rotate: false
+  xy: 210, 28
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+roundDigitalButtons_sound_state1
+  rotate: false
+  xy: 277, 94
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 1
+roundDigitalButtons_sound_state1
+  rotate: false
+  xy: 277, 28
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: 2
+panelButtonAccept
+  rotate: false
+  xy: 344, 125
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 1
+panelButtonAccept
+  rotate: false
+  xy: 344, 80
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 2
+panelButtonCancel
+  rotate: false
+  xy: 389, 125
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 1
+panelButtonCancel
+  rotate: false
+  xy: 344, 35
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 2
+panelButtonList
+  rotate: false
+  xy: 389, 80
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 1
+panelButtonList
+  rotate: false
+  xy: 434, 125
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 2
+panelButtonPlay
+  rotate: false
+  xy: 389, 35
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 1
+panelButtonPlay
+  rotate: false
+  xy: 434, 80
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 2
+panelButtonRestart
+  rotate: false
+  xy: 479, 125
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 1
+panelButtonRestart
+  rotate: false
+  xy: 434, 35
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: 2

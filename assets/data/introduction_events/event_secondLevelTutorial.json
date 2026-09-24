@@ -1,0 +1,9 @@
+{
+  singleview: false
+  subEvents: [
+      {
+        type: dialogue
+        id: dialog_secondLevel
+      }
+  ]
+}

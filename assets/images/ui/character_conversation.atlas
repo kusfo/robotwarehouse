@@ -1,0 +1,75 @@
+
+character_conversation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+character_left
+  rotate: false
+  xy: 0, 582
+  size: 234, 408
+  orig: 234, 408
+  offset: 0, 0
+  index: 2
+character_right
+  rotate: false
+  xy: 0, 172
+  size: 233, 408
+  orig: 233, 408
+  offset: 0, 0
+  index: 2
+character_left
+  rotate: false
+  xy: 236, 582
+  size: 219, 408
+  orig: 219, 408
+  offset: 0, 0
+  index: 3
+character_left
+  rotate: false
+  xy: 235, 172
+  size: 182, 408
+  orig: 182, 408
+  offset: 0, 0
+  index: 5
+character_right
+  rotate: false
+  xy: 457, 582
+  size: 182, 408
+  orig: 182, 408
+  offset: 0, 0
+  index: 5
+character_left
+  rotate: false
+  xy: 419, 172
+  size: 167, 408
+  orig: 167, 408
+  offset: 0, 0
+  index: 1
+character_right
+  rotate: false
+  xy: 641, 582
+  size: 166, 408
+  orig: 166, 408
+  offset: 0, 0
+  index: 1
+character_left
+  rotate: false
+  xy: 588, 199
+  size: 154, 381
+  orig: 154, 381
+  offset: 0, 0
+  index: 4
+text_bubble
+  rotate: false
+  xy: 0, 0
+  size: 310, 170
+  orig: 310, 170
+  offset: 0, 0
+  index: 1
+text_bubble
+  rotate: false
+  xy: 312, 0
+  size: 310, 170
+  orig: 310, 170
+  offset: 0, 0
+  index: 2

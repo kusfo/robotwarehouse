@@ -1,0 +1,75 @@
+
+missionCompletePanel.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame
+  rotate: false
+  xy: 0, 590
+  size: 377, 414
+  orig: 377, 414
+  offset: 0, 0
+  index: -1
+screen
+  rotate: false
+  xy: 0, 341
+  size: 331, 247
+  orig: 331, 247
+  offset: 0, 0
+  index: 1
+screen
+  rotate: false
+  xy: 379, 757
+  size: 331, 247
+  orig: 331, 247
+  offset: 0, 0
+  index: 2
+screen
+  rotate: false
+  xy: 0, 92
+  size: 331, 247
+  orig: 331, 247
+  offset: 0, 0
+  index: 3
+screen
+  rotate: false
+  xy: 379, 508
+  size: 331, 247
+  orig: 331, 247
+  offset: 0, 0
+  index: 4
+star
+  rotate: false
+  xy: 712, 899
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: 3
+icon_time
+  rotate: false
+  xy: 0, 0
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1
+icon_lostBoxes
+  rotate: false
+  xy: 712, 816
+  size: 85, 81
+  orig: 85, 81
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 819, 927
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: 1
+star
+  rotate: false
+  xy: 89, 13
+  size: 73, 77
+  orig: 73, 77
+  offset: 0, 0
+  index: 2

@@ -1,0 +1,403 @@
+{
+levels: [
+	{
+		levelNumber: 4
+		cellH: 0
+		cellV: 2
+		type: normal
+		starsNeeded: 0
+		challenge: true
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 1
+				row: 1
+			}
+		]
+	}
+	{
+		levelNumber: 3
+		cellH: 1
+		cellV: 1
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 2
+				row: 1
+			}
+		]
+	}
+	{
+		levelNumber: 5
+		cellH: 1
+		cellV: 3
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 0
+				row: 2
+			}
+		]
+	}
+	{
+		levelNumber: 42
+		cellH: 1
+		cellV: 5
+		type: special_challenge
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: []
+	}
+	{
+		levelNumber: 1
+		cellH: 2
+		cellV: 0
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: []
+	}
+	{
+		levelNumber: 2
+		cellH: 2
+		cellV: 1
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 2
+				row: 0
+			}
+		]
+	}
+	{
+		levelNumber: 6
+		cellH: 2
+		cellV: 3
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 1
+				row: 3
+			}
+		]
+	}
+	{
+		levelNumber: 7
+		cellH: 2
+		cellV: 4
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 2
+				row: 3
+			}
+		]
+	}
+	{
+		levelNumber: 8
+		cellH: 3
+		cellV: 5
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 2
+				row: 4
+			}
+		]
+	}
+	{
+		levelNumber: 66
+		cellH: 4
+		cellV: 2
+		type: special_challenge
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: []
+	}
+	{
+		levelNumber: 10
+		cellH: 4
+		cellV: 4
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 4
+				row: 5
+			}
+		]
+	}
+	{
+		levelNumber: 9
+		cellH: 4
+		cellV: 5
+		type: normal
+		starsNeeded: 0
+		challenge: true,
+		unblockingDialog: "dialog_levelSelection_starSector"
+		unblockingLevels: [
+			{
+				column: 3
+				row: 5
+			}
+		]
+	}
+	{
+		levelNumber: 11
+		cellH: 4
+		cellV: 6
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 4
+				row: 5
+			}
+		]
+	}
+	{
+		levelNumber: 12
+		cellH: 5
+		cellV: 5
+		type: stars
+		starsNeeded: 6
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 4
+				row: 6
+			}
+			{
+				column: 4
+				row: 4
+			}
+			{
+				column: 4
+				row: 5
+			}
+		]
+	}
+	{
+		levelNumber: 14
+		cellH: 6
+		cellV: 4
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 6
+				row: 5
+			}
+		]
+	}
+	{
+		levelNumber: 13
+		cellH: 6
+		cellV: 5
+		type: normal
+		starsNeeded: 0
+		challenge: true
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 5
+				row: 5
+			}
+		]
+	}
+	{
+		levelNumber: 15
+		cellH: 7
+		cellV: 3
+		type: normal
+		starsNeeded: 0
+		challenge: true
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 6
+				row: 4
+			}
+		]
+	}
+	{
+		levelNumber: 95
+		cellH: 7
+		cellV: 6
+		type: special_challenge
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: []
+	}
+	{
+		levelNumber: 18
+		cellH: 8
+		cellV: 2
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 8
+				row: 3
+			}
+			{
+				column: 9
+				row: 3
+			}
+		]
+	}
+	{
+		levelNumber: 16
+		cellH: 8
+		cellV: 3
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 7
+				row: 3
+			}
+		]
+	}
+	{
+		levelNumber: 17
+		cellH: 9
+		cellV: 3
+		type: normal
+		starsNeeded: 0
+		challenge: true
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 8
+				row: 3
+			}
+		]
+	}
+]
+decorations: [
+	{
+		cellH: 0
+		cellV: 0
+		decoration: 5
+	}
+	{
+		cellH: 0
+		cellV: 3
+		decoration: 7
+	}
+	{
+		cellH: 0
+		cellV: 5
+		decoration: 4
+	}
+	{
+		cellH: 1
+		cellV: 2
+		decoration: 23
+	}
+	{
+		cellH: 1
+		cellV: 4
+		decoration: 41
+	}
+	{
+		cellH: 1
+		cellV: 6
+		decoration: 1
+	}
+	{
+		cellH: 3
+		cellV: 1
+		decoration: 6
+	}
+	{
+		cellH: 4
+		cellV: 3
+		decoration: 2
+	}
+	{
+		cellH: 5
+		cellV: 2
+		decoration: 1
+	}
+	{
+		cellH: 5
+		cellV: 6
+		decoration: 4
+	}
+	{
+		cellH: 7
+		cellV: 1
+		decoration: 21
+	}
+	{
+		cellH: 7
+		cellV: 4
+		decoration: 2
+	}
+	{
+		cellH: 7
+		cellV: 5
+		decoration: 40
+	}
+	{
+		cellH: 9
+		cellV: 0
+		decoration: 24
+	}
+	{
+		cellH: 9
+		cellV: 2
+		decoration: 3
+	}
+	{
+		cellH: 9
+		cellV: 5
+		decoration: 6
+	}
+]
+episodeNumber: 2
+background: 2
+unblockEpisodeWhenCompleting: 3
+hiddenBySpecialEvent: ""
+totalLevels: 21
+totalStars: 63
+totalChallenges: 5
+goalLevel: 18
+columns: 10
+rows: 7
+}

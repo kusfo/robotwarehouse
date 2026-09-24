@@ -1,0 +1,25 @@
+{
+  pages:[
+    {
+      textReference: dialog_newEpisode_2_a,
+      pose: worried,
+      events:[]
+    }
+    {
+      textReference: dialog_newEpisode_2_b,
+      pose: worried,
+      events:[]
+    }
+    {
+      textReference: dialog_newEpisode_2_c
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_newEpisode_2_d,
+      pose: neutral,
+      events:[]
+    }
+  ]
+  side: right
+}

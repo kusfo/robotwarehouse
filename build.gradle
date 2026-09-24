@@ -1,0 +1,139 @@
+buildscript {
+    
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        gradlePluginPortal()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        google()
+    }
+    dependencies {
+        classpath 'org.wisepersist:gwt-gradle-plugin:1.1.16'
+        classpath 'org.gretty:gretty:3.0.7'
+        classpath 'com.android.tools.build:gradle:7.2.2'
+        classpath 'com.mobidevelop.robovm:robovm-gradle-plugin:2.3.19'
+        classpath 'com.google.gms:google-services:4.3.15'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.9.2'
+        classpath 'com.github.triplet.gradle:play-publisher:3.8.4'
+    }
+}
+
+allprojects {
+    apply plugin: "eclipse"
+    apply plugin: "idea"
+
+    version = '1.0'
+    ext {
+        appName = "RobotWarehousw"
+        gdxVersion = '1.11.0'
+        gamesvcsVersion = '1.1.0'
+        roboVMVersion = '2.3.10'
+        gameServicesVersion = '15.0.1'
+        robopodsVersion = "1.14.0"
+        altpodsVersion = '1.18.0-SNAPSHOT'
+    }
+
+    repositories {
+        mavenLocal()
+        mavenCentral()
+        google()
+        gradlePluginPortal()
+        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
+        maven { url "https://oss.sonatype.org/content/repositories/releases/" }
+    }
+}
+
+project(":desktop") {
+    apply plugin: "java-library"
+
+
+    dependencies {
+        implementation project(":core")
+        api "com.badlogicgames.gdx:gdx-backend-lwjgl3:$gdxVersion"
+        api "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
+        api "de.golfgl.gdxgamesvcs:gdx-gamesvcs-core:$gamesvcsVersion"
+    }
+}
+
+project(":android") {
+    apply plugin: "com.android.application"
+    apply plugin: 'com.google.gms.google-services'
+    // Apply the Crashlytics Gradle plugin
+    apply plugin: 'com.google.firebase.crashlytics'
+
+    repositories {
+        maven { url 'https://maven.google.com' }
+    }
+
+    configurations { natives }
+
+    dependencies {
+        implementation project(":core")
+        api "com.badlogicgames.gdx:gdx-backend-android:$gdxVersion"
+        natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-armeabi-v7a"
+        natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-arm64-v8a"
+        natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-x86"
+        natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-x86_64"
+
+        api "com.google.android.gms:play-services-games:$gameServicesVersion"
+        api "com.google.android.gms:play-services-auth:$gameServicesVersion"
+        api "com.google.android.gms:play-services-basement:$gameServicesVersion"
+        api "de.golfgl.gdxgamesvcs:gdx-gamesvcs-android-gpgs:$gamesvcsVersion"
+        // 8.4 is the latest as of now, keep it updated
+        api 'com.google.firebase:firebase-core:21.1.1'
+        api 'com.google.firebase:firebase-config:21.2.1'
+        api 'com.google.firebase:firebase-analytics:21.2.0'
+        api 'com.google.firebase:firebase-crashlytics:18.3.3'
+        api 'com.google.firebase:firebase-messaging:23.1.1'
+
+        apply plugin: 'com.github.triplet.play'
+    }
+
+
+}
+
+project(":ios") {
+    apply plugin: "java-library"
+    apply plugin: "robovm"
+
+
+    dependencies {
+        implementation project(":core")
+        api "com.mobidevelop.robovm:robovm-rt:$roboVMVersion"
+        api "com.mobidevelop.robovm:robovm-cocoatouch:$roboVMVersion"
+        api "com.badlogicgames.gdx:gdx-backend-robovm:$gdxVersion"
+        api "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-ios"
+        api "de.golfgl.gdxgamesvcs:gdx-gamesvcs-ios-gamecenter:$gamesvcsVersion"
+        api "io.github.dkimitsa.robovm:robopods-firebase-analytics-ios:$altpodsVersion"
+        api "io.github.dkimitsa.robovm:robopods-firebase-crashlytics-ios:$altpodsVersion"
+        api "io.github.dkimitsa.robovm:robopods-firebase-google-mobile-ads-ios:$altpodsVersion"
+        api "org.robovm:robopods-reachability-ios:$robopodsVersion"
+    }
+}
+
+project(":html") {
+    apply plugin: "java-library"
+    apply plugin: "gwt"
+    apply plugin: "war"
+    apply plugin: "org.gretty"
+
+
+    dependencies {
+        implementation project(":core")
+        api "com.badlogicgames.gdx:gdx-backend-gwt:$gdxVersion"
+        api "com.badlogicgames.gdx:gdx:$gdxVersion:sources"
+        api "com.badlogicgames.gdx:gdx-backend-gwt:$gdxVersion:sources"
+        
+    }
+}
+
+project(":core") {
+    apply plugin: "java-library"
+
+
+    dependencies {
+        api "com.badlogicgames.gdx:gdx:$gdxVersion"
+        api "de.golfgl.gdxgamesvcs:gdx-gamesvcs-core:$gamesvcsVersion"
+    }
+}

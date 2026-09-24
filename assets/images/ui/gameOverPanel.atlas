@@ -1,0 +1,54 @@
+
+gameOverPanel.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame
+  rotate: false
+  xy: 0, 92
+  size: 325, 358
+  orig: 325, 358
+  offset: 0, 0
+  index: -1
+screen
+  rotate: false
+  xy: 327, 261
+  size: 279, 189
+  orig: 279, 189
+  offset: 0, 0
+  index: 1
+screen
+  rotate: false
+  xy: 608, 261
+  size: 279, 189
+  orig: 279, 189
+  offset: 0, 0
+  index: 2
+screen
+  rotate: false
+  xy: 327, 70
+  size: 279, 189
+  orig: 279, 189
+  offset: 0, 0
+  index: 3
+screen
+  rotate: false
+  xy: 608, 70
+  size: 279, 189
+  orig: 279, 189
+  offset: 0, 0
+  index: 4
+icon_box
+  rotate: false
+  xy: 889, 363
+  size: 93, 87
+  orig: 93, 87
+  offset: 0, 0
+  index: -1
+icon_clock
+  rotate: false
+  xy: 0, 0
+  size: 87, 90
+  orig: 87, 90
+  offset: 0, 0
+  index: -1

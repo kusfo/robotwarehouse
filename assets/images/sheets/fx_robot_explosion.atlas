@@ -1,0 +1,48 @@
+
+fx_robot_explosion.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Robot_fire_explosion
+  rotate: false
+  xy: 2, 2
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: 6
+Robot_fire_explosion
+  rotate: false
+  xy: 70, 2
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: 3
+Robot_fire_explosion
+  rotate: false
+  xy: 138, 2
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: 5
+Robot_fire_explosion
+  rotate: false
+  xy: 206, 2
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: 2
+Robot_fire_explosion
+  rotate: false
+  xy: 274, 2
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: 4
+Robot_fire_explosion
+  rotate: false
+  xy: 342, 2
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: 1

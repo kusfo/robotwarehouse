@@ -1,0 +1,110 @@
+
+levelSelection_mapDecos.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+deco
+  rotate: false
+  xy: 0, 98
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 1
+deco
+  rotate: false
+  xy: 0, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 2
+deco
+  rotate: false
+  xy: 90, 98
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 3
+deco
+  rotate: false
+  xy: 90, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 4
+deco
+  rotate: false
+  xy: 180, 98
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 5
+deco
+  rotate: false
+  xy: 180, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 6
+deco
+  rotate: false
+  xy: 270, 98
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 7
+deco
+  rotate: false
+  xy: 270, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 20
+deco
+  rotate: false
+  xy: 360, 98
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 21
+deco
+  rotate: false
+  xy: 360, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 22
+deco
+  rotate: false
+  xy: 450, 98
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 23
+deco
+  rotate: false
+  xy: 450, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 24
+deco
+  rotate: false
+  xy: 540, 98
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 40
+deco
+  rotate: false
+  xy: 540, 0
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 41
+deco
+  rotate: false
+  xy: 630, 98
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 42

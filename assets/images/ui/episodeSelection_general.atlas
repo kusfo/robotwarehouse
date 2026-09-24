@@ -1,0 +1,108 @@
+
+episodeSelection_general.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame
+  rotate: false
+  xy: 0, 620
+  size: 773, 377
+  orig: 773, 377
+  offset: 0, 0
+  index: -1
+screen
+  rotate: false
+  xy: 0, 328
+  size: 549, 290
+  orig: 549, 290
+  offset: 0, 0
+  index: 1
+screen
+  rotate: false
+  xy: 0, 36
+  size: 549, 290
+  orig: 549, 290
+  offset: 0, 0
+  index: 2
+episode_effect
+  rotate: false
+  xy: 775, 762
+  size: 165, 235
+  orig: 165, 235
+  offset: 0, 0
+  index: -1
+episode_flash
+  rotate: false
+  xy: 551, 384
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: -1
+pag_left_episodes
+  rotate: false
+  xy: 942, 782
+  size: 58, 215
+  orig: 58, 215
+  offset: 0, 0
+  index: 1
+pag_left_episodes
+  rotate: false
+  xy: 551, 167
+  size: 58, 215
+  orig: 58, 215
+  offset: 0, 0
+  index: 2
+pag_left_episodes
+  rotate: false
+  xy: 715, 403
+  size: 58, 215
+  orig: 58, 215
+  offset: 0, 0
+  index: 3
+pag_right_episodes
+  rotate: false
+  xy: 775, 545
+  size: 58, 215
+  orig: 58, 215
+  offset: 0, 0
+  index: 1
+pag_right_episodes
+  rotate: false
+  xy: 611, 167
+  size: 58, 215
+  orig: 58, 215
+  offset: 0, 0
+  index: 2
+pag_right_episodes
+  rotate: false
+  xy: 835, 545
+  size: 58, 215
+  orig: 58, 215
+  offset: 0, 0
+  index: 3
+episodeChallengeStar
+  rotate: false
+  xy: 0, 0
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+
+episodeSelection_general2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+screen
+  rotate: false
+  xy: 0, 292
+  size: 549, 290
+  orig: 549, 290
+  offset: 0, 0
+  index: 3
+screen
+  rotate: false
+  xy: 0, 0
+  size: 549, 290
+  orig: 549, 290
+  offset: 0, 0
+  index: 4

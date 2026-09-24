@@ -1,0 +1,92 @@
+{
+  tutorials: [
+    {
+      id: tutorial1
+      elements: [
+        {
+          labeltext: tutorial_body1b
+          sampleId: tutorial_anim1b
+        },
+        {
+          labeltext: tutorial_body1c
+          sampleId: tutorial_anim1c
+        }
+      ]
+    }
+    {
+      id: tutorial2
+      elements: [
+        {
+          labeltext: tutorial_body2a
+          sampleId: tutorial_anim12a
+        }
+      ]
+    }
+    {
+      id: tutorial3
+      elements: [
+        {
+          labeltext: tutorial_body3a
+          sampleId: tutorial_anim13a
+        }
+      ]
+    }
+    {
+      id: tutorial4
+      elements: [
+        {
+          labeltext: tutorial_body4a
+          sampleId: tutorial_anim14a
+        }
+      ]
+    }
+    {
+      id: tutorial5
+      elements: [
+        {
+          labeltext: tutorial_body5a
+          sampleId: tutorial_anim15a
+        },
+        {
+          labeltext: tutorial_body5b
+          sampleId: tutorial_anim15b
+        }
+      ]
+    }
+    {
+      id: tutorial6
+      elements: [
+        {
+          labeltext: tutorial_body6a
+          sampleId: tutorial_anim16a
+        },
+        {
+          labeltext: tutorial_body6b
+          sampleId: tutorial_anim16b
+        }
+      ]
+    }
+    {
+      id: tutorial7
+      elements: [
+        {
+          labeltext: tutorial_body7a
+          sampleId: tutorial_anim17a
+        }
+      ]
+    }
+    {
+      id: tutorial8
+      elements: [
+        {
+          labeltext: tutorial_body8a
+          sampleId: tutorial_anim18a
+        },
+        {
+          labeltext: tutorial_body8b
+          sampleId: tutorial_anim18b
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstFloorPowers_a
+      pose: showing
+      events:[
+        {
+          event: game_zone_fade_in
+        },
+        {
+          event: show_down_arrow,
+          value1: 272
+          value2: 288
+        }
+      ]
+    }
+    {
+      textReference: dialog_firstFloorPowers_b,
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_firstFloorPowers_c,
+      pose: neutral
+      events:[
+        {
+          event: remove_arrow
+        }
+      ]
+    }
+  ],
+  side: left,
+  bubbleDespX: 40
+  bubbleDespY: -80
+}

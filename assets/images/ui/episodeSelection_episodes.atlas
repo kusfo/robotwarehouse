@@ -1,0 +1,68 @@
+
+episodeSelection_episodes.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+episode1
+  rotate: false
+  xy: 0, 236
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: 1
+episode1
+  rotate: false
+  xy: 0, 0
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: 2
+episode2
+  rotate: false
+  xy: 164, 236
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: 1
+episode2
+  rotate: false
+  xy: 164, 0
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: 2
+episode3
+  rotate: false
+  xy: 328, 236
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: 1
+episode3
+  rotate: false
+  xy: 328, 0
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: 2
+episode4
+  rotate: false
+  xy: 492, 236
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: 1
+episode4
+  rotate: false
+  xy: 492, 0
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: 2
+episode_blocked
+  rotate: false
+  xy: 656, 236
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: -1

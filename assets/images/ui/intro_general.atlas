@@ -1,0 +1,110 @@
+
+intro_general.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background_logo
+  rotate: false
+  xy: 0, 673
+  size: 557, 316
+  orig: 557, 316
+  offset: 0, 0
+  index: -1
+background_space
+  rotate: false
+  xy: 0, 355
+  size: 557, 316
+  orig: 557, 316
+  offset: 0, 0
+  index: -1
+warehouse
+  rotate: false
+  xy: 559, 649
+  size: 242, 340
+  orig: 242, 340
+  offset: 0, 0
+  index: -1
+frame_info
+  rotate: false
+  xy: 0, 256
+  size: 441, 97
+  orig: 441, 97
+  offset: 0, 0
+  index: -1
+orc
+  rotate: false
+  xy: 0, 128
+  size: 309, 126
+  orig: 309, 126
+  offset: 0, 0
+  index: -1
+warehouseSign
+  rotate: false
+  xy: 559, 412
+  size: 174, 235
+  orig: 174, 235
+  offset: 0, 0
+  index: -1
+screen_info
+  rotate: false
+  xy: 0, 96
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: 1
+screen_info
+  rotate: false
+  xy: 0, 64
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: 2
+screen_info
+  rotate: false
+  xy: 0, 32
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: 3
+screen_info
+  rotate: false
+  xy: 0, 0
+  size: 399, 30
+  orig: 399, 30
+  offset: 0, 0
+  index: 4
+orc_lines_l
+  rotate: false
+  xy: 803, 867
+  size: 177, 122
+  orig: 177, 122
+  offset: 0, 0
+  index: -1
+orc_lines_r
+  rotate: false
+  xy: 803, 743
+  size: 177, 122
+  orig: 177, 122
+  offset: 0, 0
+  index: -1
+corporation
+  rotate: false
+  xy: 803, 691
+  size: 216, 50
+  orig: 216, 50
+  offset: 0, 0
+  index: -1
+robotics
+  rotate: false
+  xy: 559, 360
+  size: 160, 50
+  orig: 160, 50
+  offset: 0, 0
+  index: -1
+omni
+  rotate: false
+  xy: 443, 303
+  size: 97, 50
+  orig: 97, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,110 @@
+
+pausePanelInfo.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frameChallenge
+  rotate: false
+  xy: 0, 608
+  size: 361, 411
+  orig: 361, 411
+  offset: 0, 0
+  index: -1
+frameSimple
+  rotate: false
+  xy: 0, 259
+  size: 361, 347
+  orig: 361, 347
+  offset: 0, 0
+  index: -1
+screenChallenge
+  rotate: false
+  xy: 363, 740
+  size: 315, 279
+  orig: 315, 279
+  offset: 0, 0
+  index: 1
+screenChallenge
+  rotate: false
+  xy: 363, 459
+  size: 315, 279
+  orig: 315, 279
+  offset: 0, 0
+  index: 2
+screenChallenge
+  rotate: false
+  xy: 680, 740
+  size: 315, 279
+  orig: 315, 279
+  offset: 0, 0
+  index: 3
+screenChallenge
+  rotate: false
+  xy: 680, 459
+  size: 315, 279
+  orig: 315, 279
+  offset: 0, 0
+  index: 4
+screenSimple
+  rotate: false
+  xy: 0, 40
+  size: 315, 217
+  orig: 315, 217
+  offset: 0, 0
+  index: 1
+screenSimple
+  rotate: false
+  xy: 363, 240
+  size: 315, 217
+  orig: 315, 217
+  offset: 0, 0
+  index: 2
+screenSimple
+  rotate: false
+  xy: 680, 240
+  size: 315, 217
+  orig: 315, 217
+  offset: 0, 0
+  index: 3
+screenSimple
+  rotate: false
+  xy: 317, 21
+  size: 315, 217
+  orig: 315, 217
+  offset: 0, 0
+  index: 4
+rankStars
+  rotate: false
+  xy: 0, 20
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: 0
+rankStars
+  rotate: false
+  xy: 634, 220
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: 1
+rankStars
+  rotate: false
+  xy: 0, 0
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: 2
+rankStars
+  rotate: false
+  xy: 59, 20
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: 3
+icon_ChallengeStar
+  rotate: false
+  xy: 634, 194
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

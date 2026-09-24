@@ -1,0 +1,68 @@
+
+overBaseIndicatorLight.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lightRays_red
+  rotate: false
+  xy: 0, 44
+  size: 202, 195
+  orig: 202, 195
+  offset: 0, 0
+  index: -1
+glow_green
+  rotate: false
+  xy: 204, 135
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1
+glow_red
+  rotate: false
+  xy: 308, 135
+  size: 102, 104
+  orig: 102, 104
+  offset: 0, 0
+  index: -1
+base
+  rotate: false
+  xy: 0, 0
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+glass_green
+  rotate: false
+  xy: 204, 91
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 1
+glass_green
+  rotate: false
+  xy: 412, 197
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 2
+glass_neutral
+  rotate: false
+  xy: 34, 0
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+glass_red
+  rotate: false
+  xy: 204, 47
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 1
+glass_red
+  rotate: false
+  xy: 238, 91
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: 2

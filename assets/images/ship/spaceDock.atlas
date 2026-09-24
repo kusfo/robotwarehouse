@@ -1,0 +1,117 @@
+
+spaceDock.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shipPlatform
+  rotate: false
+  xy: 0, 157
+  size: 146, 338
+  orig: 146, 338
+  offset: 0, 0
+  index: -1
+ship_01_front
+  rotate: false
+  xy: 148, 273
+  size: 145, 222
+  orig: 145, 222
+  offset: 0, 0
+  index: -1
+ship_01_back
+  rotate: false
+  xy: 0, 40
+  size: 145, 115
+  orig: 145, 115
+  offset: 0, 0
+  index: -1
+ship_container
+  rotate: false
+  xy: 148, 181
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: 1
+ship_container
+  rotate: false
+  xy: 295, 405
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: 2
+ship_container
+  rotate: false
+  xy: 295, 313
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: 3
+ship_container
+  rotate: false
+  xy: 442, 405
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: 4
+ship_container
+  rotate: false
+  xy: 295, 221
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: 5
+ship_container
+  rotate: false
+  xy: 442, 313
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: 6
+shipEngineFireLoop
+  rotate: false
+  xy: 589, 405
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: 1
+shipEngineFireLoop
+  rotate: false
+  xy: 442, 221
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: 2
+shipEngineFireLoop
+  rotate: false
+  xy: 589, 313
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: 3
+shipEngineFireOff
+  rotate: false
+  xy: 701, 405
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: 1
+shipEngineFireOff
+  rotate: false
+  xy: 554, 221
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: 2
+shipEngineFireOff
+  rotate: false
+  xy: 701, 313
+  size: 110, 90
+  orig: 110, 90
+  offset: 0, 0
+  index: 3
+shipEngineGlow
+  rotate: false
+  xy: 0, 0
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1

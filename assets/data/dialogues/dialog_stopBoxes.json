@@ -1,0 +1,19 @@
+{
+  pages:[
+    {
+      textReference: dialog_stopBoxes_a
+      pose: neutral
+      events:[
+        {
+          event: game_zone_fade_in
+        }
+      ]
+    }
+    {
+      textReference: dialog_stopBoxes_b
+      pose: neutral
+      events:[]
+    }
+  ]
+  side: left
+}

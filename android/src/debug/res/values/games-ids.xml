@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id" translatable="false">819756198594</string>
+    <string name="package_name" translatable="false">com.teenagemutantninjacoders.robotwarehouse.android.dev</string>
+    <!--Achievements-->
+    <!-- achievement Newbie -->
+    <string name="firstLevelDone" translatable="false">CgkIwtWb6u0XEAIQAQ</string>
+    <!-- achievement Recycler -->
+    <string name="firstRobotKilled" translatable="false">CgkIwtWb6u0XEAIQAg</string>
+    <!-- achievement Scrapper -->
+    <string name="tenRobotsKilledOneLevel" translatable="false">CgkIwtWb6u0XEAIQAw</string>
+    <!-- achievement Sharah Connor -->
+    <string name="twentyRobotsKilledOneLevel" translatable="false">CgkIwtWb6u0XEAIQBA</string>
+    <!-- achievement John Connor -->
+    <string name="thirtyRobotsKilledOnelevel" translatable="false">CgkIwtWb6u0XEAIQBQ</string>
+    <!-- achievement Greedy -->
+    <string name="firstAllFloorPointsCollected" translatable="false">CgkIwtWb6u0XEAIQBg</string>
+    <!-- achievement Ace in the sleeve -->
+    <string name="firstPowerUsed" translatable="false">CgkIwtWb6u0XEAIQBw</string>
+    <!-- achievement Space Matters -->
+    <string name="firstEpisodeCompleted" translatable="false">CgkIwtWb6u0XEAIQCA</string>
+    <!-- achievement We, Robots -->
+    <string name="secondEpisodeCompleted" translatable="false">CgkIwtWb6u0XEAIQCQ</string>
+    <!-- achievement Laser Code -->
+    <string name="thirdEpisodeCompleted" translatable="false">CgkIwtWb6u0XEAIQGw</string>
+    <!-- achievement Alien problem -->
+    <string name="fourthEpisodeCompleted" translatable="false">CgkIwtWb6u0XEAIQHA</string>
+    <!-- achievement Warehouse operator -->
+    <string name="onehundredBoxesTeleported" translatable="false">CgkIwtWb6u0XEAIQCg</string>
+    <!-- achievement Space Trucker -->
+    <string name="fivehundredBoxesTeleported" translatable="false">CgkIwtWb6u0XEAIQCw</string>
+    <!-- achievement Star Freighter -->
+    <string name="onethousandBoxesTeleported" translatable="false">CgkIwtWb6u0XEAIQDA</string>
+    <!-- achievement A Star Is Born -->
+    <string name="firstStarLevelUnblocked" translatable="false">CgkIwtWb6u0XEAIQDQ</string>
+    <!-- achievement It Was Not So Hard -->
+    <string name="oneChallengeCompleted" translatable="false">CgkIwtWb6u0XEAIQDg</string>
+    <!-- achievement What Challenges? -->
+    <string name="fiveChallengeCompleted" translatable="false">CgkIwtWb6u0XEAIQDw</string>
+    <!-- achievement Who is Next? -->
+    <string name="tenChallengeCompleted" translatable="false">CgkIwtWb6u0XEAIQEA</string>
+    <!-- achievement Whatever it takes -->
+    <string name="fifteenChallengeCompleted" translatable="false">CgkIwtWb6u0XEAIQEQ</string>
+    <!-- achievement Challenging attitude -->
+    <string name="allEpisodeChallengesCompleted" translatable="false">CgkIwtWb6u0XEAIQEg</string>
+    <!-- achievement Space Matters Pro -->
+    <string name="firstEpisodeOneHundredCompleted" translatable="false">CgkIwtWb6u0XEAIQEw</string>
+    <!-- achievement We, Robots Pro -->
+    <string name="secondEpisodeOneHundredCompleted" translatable="false">CgkIwtWb6u0XEAIQFA</string>
+    <!-- achievement Laser Code Pro -->
+    <string name="thirdEpisodeOneHundredCompleted" translatable="false">CgkIwtWb6u0XEAIQGQ</string>
+    <!-- achievement Alien problem Pro -->
+    <string name="fourthEpisodeOneHundredCompleted" translatable="false">CgkIwtWb6u0XEAIQGg</string>
+    <!-- achievement Strike! -->
+    <string name="threeRobotsKilledWithOneBox" translatable="false">CgkIwtWb6u0XEAIQFQ</string>
+    <!-- achievement Experimental operator -->
+    <string name="oneExperimentalLevelCompleted" translatable="false">CgkIwtWb6u0XEAIQFg</string>
+    <!-- achievement Advanced Experimental Operator -->
+    <string name="fiveExperimentalLevelCompleted" translatable="false">CgkIwtWb6u0XEAIQFw</string>
+    <!-- achievement Expert Experimental Operator -->
+    <string name="tenExperimentalLevelCompleted" translatable="false">CgkIwtWb6u0XEAIQGA</string>
+</resources>

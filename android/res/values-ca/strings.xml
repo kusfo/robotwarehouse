@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="achievement_board_error">No es pot accedir a la pantalla d\'assoliments</string>
+    <string name="play_signin_error">Error accedint a Google Game Services</string>
+    <string name="rate_notification_ticker">Valora RobotWarehouse</string>
+    <string name="rate_notification_title">T\'agrada el nostre joc?</string>
+    <string name="rate_notification_body">Valora\'l a la Play Store!</string>
+    <string name="rate_notification_yes_action">Si</string>
+    <string name="rate_notification_no_action">No</string>
+    <string name="rate_notification_later_action">Més tard</string>
+    <string name="score_leaderboard_error">No es pot accedir a la taula de records</string>
+    <string name="notification_channel_name">Robot Warehouse</string>
+    <string name="notification_channel_description">Informació de Robot Warehouse</string>
+</resources>

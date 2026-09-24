@@ -1,0 +1,512 @@
+{
+levels: [
+	{
+		levelNumber: 70
+		cellH: 0
+		cellV: 0
+		type: special_challenge
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: []
+	}
+	{
+		levelNumber: 80
+		cellH: 0
+		cellV: 5
+		type: special_challenge
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: []
+	}
+	{
+		levelNumber: 6
+		cellH: 1
+		cellV: 2
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 2
+				row: 2
+			}
+		]
+	}
+	{
+		levelNumber: 7
+		cellH: 1
+		cellV: 3
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 1
+				row: 2
+			}
+		]
+	}
+	{
+		levelNumber: 8
+		cellH: 1
+		cellV: 4
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 1
+				row: 3
+			}
+		]
+	}
+	{
+		levelNumber: 11
+		cellH: 1
+		cellV: 6
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 2
+				row: 5
+			}
+		]
+	}
+	{
+		levelNumber: 5
+		cellH: 2
+		cellV: 2
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 3
+				row: 1
+			}
+		]
+	}
+	{
+		levelNumber: 9
+		cellH: 2
+		cellV: 4
+		type: normal
+		starsNeeded: 0
+		challenge: true
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 1
+				row: 4
+			}
+		]
+	}
+	{
+		levelNumber: 10
+		cellH: 2
+		cellV: 5
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 2
+				row: 4
+			}
+			{
+				column: 1
+				row: 4
+			}
+		]
+	}
+	{
+		levelNumber: 12
+		cellH: 2
+		cellV: 7
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 1
+				row: 6
+			}
+		]
+	}
+	{
+		levelNumber: 4
+		cellH: 3
+		cellV: 1
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 4
+				row: 1
+			}
+		]
+	}
+	{
+		levelNumber: 14
+		cellH: 3
+		cellV: 6
+		type: normal
+		starsNeeded: 0
+		challenge: true
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 3
+				row: 7
+			}
+		]
+	}
+	{
+		levelNumber: 13
+		cellH: 3
+		cellV: 7
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 2
+				row: 7
+			}
+		]
+	}
+	{
+		levelNumber: 3
+		cellH: 4
+		cellV: 1
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 4
+				row: 2
+			}
+		]
+	}
+	{
+		levelNumber: 2
+		cellH: 4
+		cellV: 2
+		type: normal
+		starsNeeded: 0
+		challenge: true
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 4
+				row: 3
+			}
+		]
+	}
+	{
+		levelNumber: 1
+		cellH: 4
+		cellV: 3
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: []
+	}
+	{
+		levelNumber: 15
+		cellH: 4
+		cellV: 7
+		type: stars
+		starsNeeded: 5
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 3
+				row: 6
+			}
+			{
+				column: 3
+				row: 7
+			}
+		]
+	}
+	{
+		levelNumber: 16
+		cellH: 4
+		cellV: 8
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 4
+				row: 7
+			}
+		]
+	}
+	{
+		levelNumber: 19
+		cellH: 5
+		cellV: 6
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 6
+				row: 7
+			}
+		]
+	}
+	{
+		levelNumber: 17
+		cellH: 5
+		cellV: 8
+		type: normal
+		starsNeeded: 0
+		challenge: true
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 4
+				row: 8
+			}
+		]
+	}
+	{
+		levelNumber: 23
+		cellH: 6
+		cellV: 4
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 7
+				row: 5
+			}
+		]
+	}
+	{
+		levelNumber: 21
+		cellH: 6
+		cellV: 6
+		type: stars
+		starsNeeded: 7
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 5
+				row: 6
+			}
+			{
+				column: 7
+				row: 7
+			}
+			{
+				column: 6
+				row: 7
+			}
+		]
+	}
+	{
+		levelNumber: 18
+		cellH: 6
+		cellV: 7
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 5
+				row: 8
+			}
+		]
+	}
+	{
+		levelNumber: 24
+		cellH: 7
+		cellV: 3
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 6
+				row: 4
+			}
+		]
+	}
+	{
+		levelNumber: 22
+		cellH: 7
+		cellV: 5
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 6
+				row: 6
+			}
+		]
+	}
+	{
+		levelNumber: 20
+		cellH: 7
+		cellV: 7
+		type: normal
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: [
+			{
+				column: 6
+				row: 7
+			}
+		]
+	}
+	{
+		levelNumber: 90
+		cellH: 8
+		cellV: 6
+		type: special_challenge
+		starsNeeded: 0
+		challenge: false
+		unblockingDialog: ""
+		unblockingLevels: []
+	}
+]
+decorations: [
+	{
+		cellH: 0
+		cellV: 1
+		decoration: 41
+	}
+	{
+		cellH: 0
+		cellV: 3
+		decoration: 5
+	}
+	{
+		cellH: 0
+		cellV: 8
+		decoration: 24
+	}
+	{
+		cellH: 1
+		cellV: 5
+		decoration: 41
+	}
+	{
+		cellH: 2
+		cellV: 1
+		decoration: 3
+	}
+	{
+		cellH: 2
+		cellV: 6
+		decoration: 6
+	}
+	{
+		cellH: 3
+		cellV: 2
+		decoration: 7
+	}
+	{
+		cellH: 3
+		cellV: 5
+		decoration: 1
+	}
+	{
+		cellH: 3
+		cellV: 8
+		decoration: 2
+	}
+	{
+		cellH: 4
+		cellV: 0
+		decoration: 4
+	}
+	{
+		cellH: 4
+		cellV: 4
+		decoration: 40
+	}
+	{
+		cellH: 5
+		cellV: 7
+		decoration: 7
+	}
+	{
+		cellH: 6
+		cellV: 1
+		decoration: 21
+	}
+	{
+		cellH: 6
+		cellV: 3
+		decoration: 4
+	}
+	{
+		cellH: 6
+		cellV: 5
+		decoration: 5
+	}
+	{
+		cellH: 7
+		cellV: 2
+		decoration: 3
+	}
+	{
+		cellH: 8
+		cellV: 3
+		decoration: 2
+	}
+	{
+		cellH: 8
+		cellV: 4
+		decoration: 20
+	}
+	{
+		cellH: 8
+		cellV: 8
+		decoration: 42
+	}
+]
+episodeNumber: 3
+background: 3
+unblockEpisodeWhenCompleting: 4
+hiddenBySpecialEvent: ""
+totalLevels: 27
+totalStars: 81
+totalChallenges: 4
+goalLevel: 24
+columns: 9
+rows: 9
+}

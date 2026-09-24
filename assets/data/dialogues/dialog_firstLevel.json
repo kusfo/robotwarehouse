@@ -1,0 +1,29 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstLevel_a
+      pose: neutral
+      events:[
+        {
+          event: game_zone_fade_in
+        }
+      ]
+    }
+    {
+      textReference: dialog_firstLevel_b
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_firstLevel_c
+      pose: showing
+      events:[
+        {
+          event: deploy_spaceDockMonitor
+        }
+      ]
+      waitTime: 1.0f
+    }
+  ],
+  side: right
+}

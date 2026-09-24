@@ -1,0 +1,42 @@
+{
+  pages:[
+    {
+      textReference: dialog_intro_a
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_intro_b,
+      pose: showing
+      events:[
+        {
+        event: advance
+        }
+      ]
+    }
+    {
+      textReference: dialog_intro_c
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_intro_d
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_intro_e
+      pose: worried
+      events:[]
+    }
+    {
+      textReference: dialog_intro_f
+      pose: neutral
+      events:[]
+    }
+  ],
+  side: left
+  bubbleType: 2
+  bubbleDespX: -20
+  bubbleDespY: 130
+}

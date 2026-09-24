@@ -1,0 +1,820 @@
+{
+walls: [
+	{
+		cellH: 3
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 8
+	}
+	{
+		cellH: 3
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 8
+	}
+	{
+		cellH: 4
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 9
+	}
+	{
+		cellH: 4
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 9
+	}
+	{
+		cellH: 5
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 25
+	}
+	{
+		cellH: 5
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 26
+	}
+	{
+		cellH: 6
+		cellV: 4
+		resourceName: th01_wall01
+		variation: 4
+	}
+	{
+		cellH: 6
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 11
+	}
+	{
+		cellH: 6
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 10
+	}
+	{
+		cellH: 6
+		cellV: 8
+		resourceName: th01_wall01
+		variation: 7
+	}
+	{
+		cellH: 7
+		cellV: 3
+		resourceName: th01_wall01
+		variation: 4
+	}
+	{
+		cellH: 7
+		cellV: 4
+		resourceName: th01_wall01
+		variation: 6
+	}
+	{
+		cellH: 7
+		cellV: 8
+		resourceName: th01_wall01
+		variation: 9
+	}
+	{
+		cellH: 8
+		cellV: 2
+		resourceName: th01_wall01
+		variation: 10
+	}
+	{
+		cellH: 8
+		cellV: 3
+		resourceName: th01_wall01
+		variation: 15
+	}
+	{
+		cellH: 8
+		cellV: 9
+		resourceName: th01_wall01
+		variation: 8
+	}
+	{
+		cellH: 9
+		cellV: 3
+		resourceName: th01_wall01
+		variation: 31
+	}
+	{
+		cellH: 9
+		cellV: 9
+		resourceName: th01_wall01
+		variation: 32
+	}
+	{
+		cellH: 10
+		cellV: 2
+		resourceName: th01_wall01
+		variation: 10
+	}
+	{
+		cellH: 10
+		cellV: 3
+		resourceName: th01_wall01
+		variation: 14
+	}
+	{
+		cellH: 10
+		cellV: 4
+		resourceName: th01_wall01
+		variation: 7
+	}
+	{
+		cellH: 10
+		cellV: 8
+		resourceName: th01_wall01
+		variation: 4
+	}
+	{
+		cellH: 10
+		cellV: 9
+		resourceName: th01_wall01
+		variation: 6
+	}
+	{
+		cellH: 11
+		cellV: 4
+		resourceName: th01_wall01
+		variation: 13
+	}
+	{
+		cellH: 11
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 7
+	}
+	{
+		cellH: 11
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 4
+	}
+	{
+		cellH: 11
+		cellV: 8
+		resourceName: th01_wall01
+		variation: 15
+	}
+	{
+		cellH: 12
+		cellV: 3
+		resourceName: th01_wall01
+		variation: 10
+	}
+	{
+		cellH: 12
+		cellV: 4
+		resourceName: th01_wall01
+		variation: 14
+	}
+	{
+		cellH: 12
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 6
+	}
+	{
+		cellH: 12
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 5
+	}
+	{
+		cellH: 12
+		cellV: 8
+		resourceName: th01_wall01
+		variation: 14
+	}
+	{
+		cellH: 12
+		cellV: 9
+		resourceName: th01_wall01
+		variation: 11
+	}
+	{
+		cellH: 14
+		cellV: 3
+		resourceName: th01_wall01
+		variation: 10
+	}
+	{
+		cellH: 14
+		cellV: 4
+		resourceName: th01_wall01
+		variation: 34
+	}
+	{
+		cellH: 14
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 7
+	}
+	{
+		cellH: 14
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 4
+	}
+	{
+		cellH: 14
+		cellV: 8
+		resourceName: th01_wall01
+		variation: 34
+	}
+	{
+		cellH: 14
+		cellV: 9
+		resourceName: th01_wall01
+		variation: 11
+	}
+	{
+		cellH: 15
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 2
+	}
+	{
+		cellH: 15
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 2
+	}
+	{
+		cellH: 16
+		cellV: 5
+		resourceName: th01_wall01
+		variation: 9
+	}
+	{
+		cellH: 16
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 9
+	}
+]
+floorTiles: [
+	{
+		cellH: 4
+		cellV: 6
+		variation: 9
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 5
+		cellV: 6
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 6
+		cellV: 6
+		variation: 2
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 5
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 6
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 7
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 4
+		variation: 2
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 5
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 6
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 7
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 8
+		variation: 2
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 4
+		variation: 2
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 5
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 6
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 7
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 8
+		variation: 2
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 10
+		cellV: 5
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 10
+		cellV: 6
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 10
+		cellV: 7
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 11
+		cellV: 6
+		variation: 2
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 3
+		variation: 10
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 4
+		variation: 2
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 5
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 6
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 7
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 8
+		variation: 2
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 9
+		variation: 12
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 14
+		cellV: 6
+		variation: 1
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 15
+		cellV: 6
+		variation: 11
+		resourceName: th01_floor01
+	}
+]
+floorTrapDoors: []
+floorButtons: []
+floorBarriers: []
+rotatingFloors: []
+boxes: [
+	{
+		cellH: 7
+		cellV: 5
+		resourceName: th01_boxes01
+		color: yellow
+	}
+	{
+		cellH: 7
+		cellV: 7
+		resourceName: th01_boxes01
+		color: blue
+	}
+	{
+		cellH: 8
+		cellV: 4
+		resourceName: th01_boxes01
+		color: red
+	}
+	{
+		cellH: 9
+		cellV: 4
+		resourceName: th01_boxes01
+		color: blue
+	}
+	{
+		cellH: 9
+		cellV: 8
+		resourceName: th01_boxes01
+		color: yellow
+	}
+	{
+		cellH: 10
+		cellV: 7
+		resourceName: th01_boxes01
+		color: red
+	}
+	{
+		cellH: 13
+		cellV: 3
+		resourceName: th01_boxes01
+		color: red
+	}
+	{
+		cellH: 13
+		cellV: 9
+		resourceName: th01_boxes01
+		color: blue
+	}
+	{
+		cellH: 15
+		cellV: 6
+		resourceName: th01_boxes01
+		color: yellow
+	}
+]
+abyss: [
+	{
+		cellH: 3
+		cellV: 6
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 3
+		cellV: 8
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 4
+		cellV: 8
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 6
+		cellV: 9
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 7
+		cellV: 9
+		variation: 2
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 8
+		cellV: 10
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 9
+		cellV: 10
+		variation: 7
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 9
+		cellV: 11
+		variation: 6
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 10
+		cellV: 10
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 11
+		cellV: 9
+		variation: 7
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 11
+		cellV: 10
+		variation: 8
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 12
+		cellV: 10
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 13
+		cellV: 10
+		variation: 7
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 13
+		cellV: 11
+		variation: 8
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 14
+		cellV: 10
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 15
+		cellV: 8
+		variation: 2
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 16
+		cellV: 6
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 16
+		cellV: 8
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+]
+overBaseBoxActivables: [
+	{
+		cellH: 7
+		cellV: 6
+		resourceName: overBasefloorPoints
+		variation: 2
+		overBaseType: points
+		overBaseGroupNumber: 0
+		power: none
+	}
+]
+overBaseDecos: [
+	{
+		cellH: 2
+		cellV: 3
+		variation: 3
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 2
+		cellV: 5
+		variation: 3
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 2
+		cellV: 7
+		variation: 3
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 4
+		cellV: 3
+		variation: 1
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 5
+		cellV: 3
+		variation: 1
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 6
+		cellV: 3
+		variation: 1
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 7
+		cellV: 2
+		variation: 1
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 7
+		cellV: 5
+		variation: 2
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 7
+		cellV: 9
+		variation: 4
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 8
+		cellV: 5
+		variation: 4
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 9
+		cellV: 2
+		variation: 5
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 9
+		cellV: 5
+		variation: 6
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 10
+		cellV: 6
+		variation: 3
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 11
+		cellV: 3
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 11
+		cellV: 9
+		variation: 5
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 13
+		cellV: 4
+		variation: 1
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 13
+		cellV: 9
+		variation: 2
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 15
+		cellV: 9
+		variation: 1
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 16
+		cellV: 9
+		variation: 1
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 17
+		cellV: 5
+		variation: 1
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 17
+		cellV: 9
+		variation: 1
+		resourceName: th01_overBaseBeam01
+	}
+]
+overBaseTracks: []
+overBaseIndicatorLights: [
+	{
+		cellH: 6
+		cellV: 4
+	}
+	{
+		cellH: 6
+		cellV: 8
+	}
+	{
+		cellH: 14
+		cellV: 3
+	}
+	{
+		cellH: 14
+		cellV: 9
+	}
+]
+bigDecos: [
+	{
+		cellH: 3
+		cellV: 3
+		variation: 2
+		resourceName: th01_bigDeco
+	}
+]
+robotElevators: [
+	{
+		cellH: 12
+		cellV: 6
+		resourceName: th01_robotElevator01
+		variation: 1
+		priority: 1
+	}
+]
+cannons: []
+levelTime: 85
+requestedBoxes: 9
+optimalTime: 35
+timeMultiplier: 5
+rankPointsMod: 0
+maxComboRed: -1
+maxComboBlue: -1
+maxComboYellow: -1
+maxNumRobots: 2
+robotSpanTime: 7
+maxNumRatliens: 1
+ratlienSpanTime: 15
+pusherRobot: 100
+explosiveRobot: 0
+challenge: none
+challengeValue: 0
+challengeObject: none
+introductionEvent: ""
+}

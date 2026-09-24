@@ -1,0 +1,13 @@
+{
+  singleview: true
+  subEvents: [
+      {
+        type: dialogue
+        id: dialog_abyss_1
+      }
+      {
+        type: tutorial
+        id: tutorial2
+      }
+  ]
+}

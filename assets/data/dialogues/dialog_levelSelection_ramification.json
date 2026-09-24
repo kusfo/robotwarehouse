@@ -1,0 +1,28 @@
+{
+  pages:[
+    {
+      textReference: dialog_levelSelection_ramification_a
+      pose: showing
+      events:[
+        {
+          event: pause_event
+          value1: 0.5
+        }
+        {
+          event: map_move_to_position
+          value1: 294
+          value2: 0
+        }
+      ]
+    }
+    {
+      textReference: dialog_levelSelection_ramification_b
+      pose: neutral
+      events:[]
+    }
+  ]
+  side: left,
+  bubbleType: 2
+  bubbleDespX: 0
+  bubbleDespY: 30
+}

@@ -1,0 +1,131 @@
+
+fx_robot_bubble.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fx_robot_evil_in
+  rotate: false
+  xy: 0, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1
+fx_robot_evil_in
+  rotate: false
+  xy: 29, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 2
+fx_robot_evil_in
+  rotate: false
+  xy: 58, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 3
+fx_robot_evil_in
+  rotate: false
+  xy: 87, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 4
+fx_robot_evil_loop
+  rotate: false
+  xy: 116, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1
+fx_robot_evil_out
+  rotate: false
+  xy: 145, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1
+fx_robot_exclamation_in
+  rotate: false
+  xy: 174, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1
+fx_robot_exclamation_in
+  rotate: false
+  xy: 203, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 2
+fx_robot_exclamation_in
+  rotate: false
+  xy: 232, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 3
+fx_robot_exclamation_in
+  rotate: false
+  xy: 261, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 4
+fx_robot_exclamation_loop
+  rotate: false
+  xy: 290, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1
+fx_robot_exclamation_out
+  rotate: false
+  xy: 319, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1
+fx_robot_interrogation_in
+  rotate: false
+  xy: 348, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1
+fx_robot_interrogation_in
+  rotate: false
+  xy: 377, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 2
+fx_robot_interrogation_in
+  rotate: false
+  xy: 406, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 3
+fx_robot_interrogation_in
+  rotate: false
+  xy: 435, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 4
+fx_robot_interrogation_loop
+  rotate: false
+  xy: 464, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1
+fx_robot_interrogation_out
+  rotate: false
+  xy: 493, 0
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: 1

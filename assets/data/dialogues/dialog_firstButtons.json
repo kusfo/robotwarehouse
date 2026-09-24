@@ -1,0 +1,15 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstButtons_a
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_firstButtons_b,
+      pose: showing
+      events:[]
+    }
+  ],
+  side: left
+}

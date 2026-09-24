@@ -1,0 +1,15 @@
+{
+  pages:[
+    {
+      textReference: dialog_boxButtons_a
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_boxButtons_b
+      pose: neutral
+      events:[]
+    }
+  ],
+  side: left
+}

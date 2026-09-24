@@ -1,0 +1,47 @@
+{
+  pages:[
+    {
+      textReference: dialog_levelSelection_starSector_a
+      pose: showing
+      events:[
+        {
+          event: pause_event
+          value1: 0.5
+        }
+        {
+          event: map_move_to_position
+          value1: 264
+          value2: 297
+        }
+        {
+          event: show_left_arrow,
+          value1: 402
+          value2: 151
+        }
+      ]
+    }
+    {
+      textReference: dialog_levelSelection_starSector_b
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_levelSelection_starSector_c,
+      pose: neutral,
+      events:[]
+    }
+    {
+      textReference: dialog_levelSelection_starSector_d
+      pose: neutral
+      events:[
+        {
+          event: remove_arrow
+        }
+      ]
+    }
+  ]
+  side: left,
+  bubbleType: 2
+  bubbleDespX: -20
+  bubbleDespY: 40
+}

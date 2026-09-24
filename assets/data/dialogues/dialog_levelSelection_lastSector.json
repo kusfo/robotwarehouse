@@ -1,0 +1,25 @@
+{
+  pages:[
+    {
+      textReference: dialog_levelSelection_lastSector_a
+      pose: showing
+      events:[
+        {
+          event: pause_event
+          value1: 0.5
+        }
+        {
+          event: map_move_to_position
+          value1: 431
+          value2: 85
+        }
+      ]
+    }
+    {
+      textReference: dialog_levelSelection_lastSector_b
+      pose: neutral
+      events:[]
+    }
+  ]
+  side: left
+}

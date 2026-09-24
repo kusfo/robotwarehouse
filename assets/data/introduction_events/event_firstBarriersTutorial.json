@@ -1,0 +1,13 @@
+{
+  singleview: true
+  subEvents: [
+      {
+        type: dialogue
+        id: dialog_firstBarriers
+      }
+      {
+        type: tutorial
+        id: tutorial5
+      }
+  ]
+}

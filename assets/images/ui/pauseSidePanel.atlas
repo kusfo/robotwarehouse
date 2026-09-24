@@ -1,0 +1,61 @@
+
+pauseSidePanel.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+screen
+  rotate: false
+  xy: 0, 48
+  size: 150, 389
+  orig: 150, 389
+  offset: 0, 0
+  index: 1
+screen
+  rotate: false
+  xy: 152, 48
+  size: 150, 389
+  orig: 150, 389
+  offset: 0, 0
+  index: 2
+screen
+  rotate: false
+  xy: 304, 48
+  size: 150, 389
+  orig: 150, 389
+  offset: 0, 0
+  index: 3
+screen
+  rotate: false
+  xy: 456, 48
+  size: 150, 389
+  orig: 150, 389
+  offset: 0, 0
+  index: 4
+frame
+  rotate: false
+  xy: 608, 48
+  size: 71, 389
+  orig: 71, 389
+  offset: 0, 0
+  index: -1
+frame_left
+  rotate: false
+  xy: 681, 48
+  size: 71, 389
+  orig: 71, 389
+  offset: 0, 0
+  index: -1
+buttonPlay
+  rotate: false
+  xy: 0, 0
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 1
+buttonPlay
+  rotate: false
+  xy: 754, 391
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: 2

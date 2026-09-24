@@ -1,0 +1,15 @@
+{
+  pages:[
+    {
+      textReference: dialog_necessaryPowers_a
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_necessaryPowers_b
+      pose: showing
+      events:[]
+    }
+  ],
+  side: left
+}

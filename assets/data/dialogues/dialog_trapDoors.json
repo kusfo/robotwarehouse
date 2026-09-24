@@ -1,0 +1,19 @@
+{
+  pages:[
+    {
+      textReference: dialog_trapDoors_a
+      pose: worried
+      events:[
+        {
+          event: game_zone_fade_in
+        }
+	  ]
+    }
+    {
+      textReference: dialog_trapDoors_b
+      pose: worried
+      events:[]
+    }
+  ]
+  side: left
+}

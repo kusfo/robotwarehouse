@@ -1,0 +1,13 @@
+{
+  singleview: true
+  subEvents: [
+      {
+        type: dialogue
+        id: dialog_boxButtons
+      }
+      {
+        type: tutorial
+        id: tutorial7
+      }
+  ]
+}

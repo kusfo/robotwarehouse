@@ -1,0 +1,20 @@
+{
+  pages:[
+    {
+      textReference: dialog_rotatingFloors_a
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_rotatingFloors_b
+      pose: worried
+      events:[]
+    }
+    {
+      textReference: dialog_rotatingFloors_c
+      pose: worried
+      events:[]
+    }
+  ],
+  side: left
+}

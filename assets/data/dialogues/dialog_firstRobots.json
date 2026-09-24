@@ -1,0 +1,20 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstRobots_a
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_firstRobots_b,
+      pose: neutral,
+      events:[]
+    }
+    {
+      textReference: dialog_firstRobots_c
+      pose: celebrating,
+      events:[]
+    }
+  ],
+  side: left
+}

@@ -1,0 +1,68 @@
+
+tutorialsMenulPanel.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+TutorialsPanelFrame
+  rotate: false
+  xy: 0, 564
+  size: 426, 454
+  orig: 426, 454
+  offset: 0, 0
+  index: -1
+TutorialsPanelScreen
+  rotate: false
+  xy: 0, 282
+  size: 382, 280
+  orig: 382, 280
+  offset: 0, 0
+  index: 1
+TutorialsPanelScreen
+  rotate: false
+  xy: 428, 738
+  size: 382, 280
+  orig: 382, 280
+  offset: 0, 0
+  index: 2
+TutorialsPanelScreen
+  rotate: false
+  xy: 0, 0
+  size: 382, 280
+  orig: 382, 280
+  offset: 0, 0
+  index: 3
+TutorialsPanelScreen
+  rotate: false
+  xy: 428, 456
+  size: 382, 280
+  orig: 382, 280
+  offset: 0, 0
+  index: 4
+TutorialsOptionFrame
+  rotate: false
+  xy: 384, 424
+  size: 322, 30
+  orig: 322, 30
+  offset: 0, 0
+  index: 1
+TutorialsOptionFrame
+  rotate: false
+  xy: 384, 392
+  size: 322, 30
+  orig: 322, 30
+  offset: 0, 0
+  index: 2
+TutorialsArrowDown
+  rotate: false
+  xy: 812, 999
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+TutorialsArrowUp
+  rotate: false
+  xy: 708, 435
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1

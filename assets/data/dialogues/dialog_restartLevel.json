@@ -1,0 +1,30 @@
+{
+  pages:[
+    {
+      textReference: dialog_restartLevel_a
+      pose: neutral
+      events: []
+    }
+    {
+      textReference: dialog_restartLevel_b
+      pose: neutral
+      events: []
+    }
+    {
+      textReference: dialog_restartLevel_c
+      pose: showing
+      events: [
+        {
+          event: deploy_pauseButtonPanel
+        },
+        {
+          event: show_right_arrow,
+          value1: 570
+          value2: 348
+        }
+      ]
+    }
+  ],
+  side: left,
+}
+

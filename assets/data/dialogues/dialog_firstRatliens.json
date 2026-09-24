@@ -1,0 +1,20 @@
+{
+  pages:[
+    {
+      textReference: dialog_firstRatliens_a
+      pose: neutral
+      events:[]
+    }
+    {
+      textReference: dialog_firstRatliens_b
+      pose: showing
+      events:[]
+    }
+    {
+      textReference: dialog_firstRatliens_c
+      pose: neutral
+      events:[]
+    }
+  ],
+  side: left
+}

@@ -1,0 +1,1312 @@
+{
+walls: [
+	{
+		cellH: 2
+		cellV: 6
+		resourceName: th01_wall01
+		variation: 4
+	}
+	{
+		cellH: 2
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 7
+	}
+	{
+		cellH: 3
+		cellV: 2
+		resourceName: th01_wall01
+		variation: 4
+	}
+	{
+		cellH: 3
+		cellV: 3
+		resourceName: th01_wall01
+		variation: 3
+	}
+	{
+		cellH: 3
+		cellV: 4
+		resourceName: th01_wall01
+		variation: 11
+	}
+	{
+		cellH: 3
+		cellV: 6
+		resourceName: th01_wall01
+		variation: 5
+	}
+	{
+		cellH: 3
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 6
+	}
+	{
+		cellH: 3
+		cellV: 9
+		resourceName: th01_wall01
+		variation: 1
+	}
+	{
+		cellH: 4
+		cellV: 2
+		resourceName: th01_wall01
+		variation: 9
+	}
+	{
+		cellH: 9
+		cellV: 2
+		resourceName: th01_wall01
+		variation: 8
+	}
+	{
+		cellH: 10
+		cellV: 2
+		resourceName: th01_wall01
+		variation: 9
+	}
+	{
+		cellH: 15
+		cellV: 2
+		resourceName: th01_wall01
+		variation: 8
+	}
+	{
+		cellH: 16
+		cellV: 2
+		resourceName: th01_wall01
+		variation: 5
+	}
+	{
+		cellH: 16
+		cellV: 3
+		resourceName: th01_wall01
+		variation: 3
+	}
+	{
+		cellH: 16
+		cellV: 4
+		resourceName: th01_wall01
+		variation: 11
+	}
+	{
+		cellH: 16
+		cellV: 6
+		resourceName: th01_wall01
+		variation: 10
+	}
+	{
+		cellH: 16
+		cellV: 7
+		resourceName: th01_wall01
+		variation: 11
+	}
+	{
+		cellH: 16
+		cellV: 9
+		resourceName: th01_wall01
+		variation: 1
+	}
+]
+floorTiles: [
+	{
+		cellH: 6
+		cellV: 4
+		variation: 13
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 6
+		cellV: 5
+		variation: 9
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 6
+		cellV: 6
+		variation: 9
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 6
+		cellV: 7
+		variation: 9
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 6
+		cellV: 8
+		variation: 9
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 6
+		cellV: 9
+		variation: 16
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 4
+		variation: 10
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 5
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 6
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 7
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 8
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 7
+		cellV: 9
+		variation: 12
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 4
+		variation: 10
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 6
+		variation: 3
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 7
+		variation: 3
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 8
+		cellV: 9
+		variation: 12
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 4
+		variation: 10
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 5
+		variation: 3
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 8
+		variation: 3
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 9
+		cellV: 9
+		variation: 12
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 10
+		cellV: 4
+		variation: 10
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 10
+		cellV: 5
+		variation: 3
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 10
+		cellV: 8
+		variation: 3
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 10
+		cellV: 9
+		variation: 12
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 11
+		cellV: 4
+		variation: 10
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 11
+		cellV: 6
+		variation: 3
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 11
+		cellV: 7
+		variation: 3
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 11
+		cellV: 9
+		variation: 12
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 12
+		cellV: 4
+		variation: 10
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 12
+		cellV: 5
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 12
+		cellV: 6
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 12
+		cellV: 7
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 12
+		cellV: 8
+		variation: 4
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 12
+		cellV: 9
+		variation: 12
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 4
+		variation: 14
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 5
+		variation: 11
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 6
+		variation: 11
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 7
+		variation: 11
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 8
+		variation: 11
+		resourceName: th01_floor01
+	}
+	{
+		cellH: 13
+		cellV: 9
+		variation: 15
+		resourceName: th01_floor01
+	}
+]
+floorTrapDoors: []
+floorButtons: []
+floorBarriers: [
+	{
+		cellH: 5
+		cellV: 3
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 5
+		cellV: 4
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 5
+		cellV: 6
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 5
+		cellV: 7
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 5
+		cellV: 9
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 5
+		cellV: 10
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 6
+		cellV: 3
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 6
+		cellV: 10
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 8
+		cellV: 3
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 8
+		cellV: 5
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 8
+		cellV: 8
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 9
+		cellV: 6
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 9
+		cellV: 7
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 9
+		cellV: 10
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 10
+		cellV: 6
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 10
+		cellV: 7
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 10
+		cellV: 10
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 11
+		cellV: 3
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 11
+		cellV: 5
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 11
+		cellV: 8
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 13
+		cellV: 3
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 13
+		cellV: 10
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 14
+		cellV: 3
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 14
+		cellV: 4
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 14
+		cellV: 6
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 14
+		cellV: 7
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: unblocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 14
+		cellV: 9
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+	{
+		cellH: 14
+		cellV: 10
+		resourceName: th01_barriers
+		variation: 0
+		color: none
+		barrierType: solid
+		barrierStatus: blocked
+		barrierOrientation: none
+		automatic: true
+		timeBlocked: 2
+		timeUnblocked: 2
+		initialEventTime: 0
+	}
+]
+rotatingFloors: []
+boxes: [
+	{
+		cellH: 6
+		cellV: 6
+		resourceName: th01_boxes01
+		color: red
+	}
+	{
+		cellH: 6
+		cellV: 7
+		resourceName: th01_boxes01
+		color: yellow
+	}
+	{
+		cellH: 6
+		cellV: 9
+		resourceName: th01_boxes01
+		color: red
+	}
+	{
+		cellH: 7
+		cellV: 5
+		resourceName: th01_boxes01
+		color: blue
+	}
+	{
+		cellH: 8
+		cellV: 4
+		resourceName: th01_boxes01
+		color: none
+	}
+	{
+		cellH: 9
+		cellV: 5
+		resourceName: th01_boxes01
+		color: red
+	}
+	{
+		cellH: 9
+		cellV: 9
+		resourceName: th01_boxes01
+		color: none
+	}
+	{
+		cellH: 10
+		cellV: 5
+		resourceName: th01_boxes01
+		color: yellow
+	}
+	{
+		cellH: 10
+		cellV: 8
+		resourceName: th01_boxes01
+		color: blue
+	}
+	{
+		cellH: 12
+		cellV: 4
+		resourceName: th01_boxes01
+		color: yellow
+	}
+	{
+		cellH: 12
+		cellV: 6
+		resourceName: th01_boxes01
+		color: none
+	}
+	{
+		cellH: 12
+		cellV: 9
+		resourceName: th01_boxes01
+		color: yellow
+	}
+	{
+		cellH: 13
+		cellV: 4
+		resourceName: th01_boxes01
+		color: blue
+	}
+	{
+		cellH: 13
+		cellV: 7
+		resourceName: th01_boxes01
+		color: red
+	}
+	{
+		cellH: 13
+		cellV: 9
+		resourceName: th01_boxes01
+		color: blue
+	}
+]
+abyss: [
+	{
+		cellH: 2
+		cellV: 8
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 3
+		cellV: 5
+		variation: 1
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 3
+		cellV: 8
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 3
+		cellV: 10
+		variation: 1
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 4
+		cellV: 3
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 5
+		cellV: 5
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: false
+			exitDown: false
+			exitLeft: false
+			exitRight: true
+			priority: 1
+			visible: true
+		}
+	}
+	{
+		cellH: 5
+		cellV: 8
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: false
+			exitDown: false
+			exitLeft: false
+			exitRight: true
+			priority: 1
+			visible: true
+		}
+	}
+	{
+		cellH: 5
+		cellV: 11
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 6
+		cellV: 11
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 7
+		cellV: 3
+		variation: 12
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: false
+			exitDown: true
+			exitLeft: false
+			exitRight: false
+			priority: 1
+			visible: false
+		}
+	}
+	{
+		cellH: 7
+		cellV: 10
+		variation: 10
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: true
+			exitDown: false
+			exitLeft: false
+			exitRight: false
+			priority: 1
+			visible: true
+		}
+	}
+	{
+		cellH: 8
+		cellV: 10
+		variation: 5
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 8
+		cellV: 11
+		variation: 6
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 9
+		cellV: 3
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: false
+			exitDown: true
+			exitLeft: false
+			exitRight: false
+			priority: 1
+			visible: true
+		}
+	}
+	{
+		cellH: 9
+		cellV: 11
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 10
+		cellV: 3
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: false
+			exitDown: true
+			exitLeft: false
+			exitRight: false
+			priority: 1
+			visible: true
+		}
+	}
+	{
+		cellH: 10
+		cellV: 11
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 11
+		cellV: 10
+		variation: 5
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 11
+		cellV: 11
+		variation: 6
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 12
+		cellV: 3
+		variation: 12
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: false
+			exitDown: true
+			exitLeft: false
+			exitRight: false
+			priority: 1
+			visible: false
+		}
+	}
+	{
+		cellH: 12
+		cellV: 10
+		variation: 10
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: true
+			exitDown: false
+			exitLeft: false
+			exitRight: false
+			priority: 1
+			visible: true
+		}
+	}
+	{
+		cellH: 13
+		cellV: 11
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 14
+		cellV: 5
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: false
+			exitDown: false
+			exitLeft: true
+			exitRight: false
+			priority: 1
+			visible: true
+		}
+	}
+	{
+		cellH: 14
+		cellV: 8
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: {
+			exitUp: false
+			exitDown: false
+			exitLeft: true
+			exitRight: false
+			priority: 1
+			visible: true
+		}
+	}
+	{
+		cellH: 14
+		cellV: 11
+		variation: 4
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 15
+		cellV: 3
+		variation: 3
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 16
+		cellV: 5
+		variation: 1
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 16
+		cellV: 8
+		variation: 1
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+	{
+		cellH: 16
+		cellV: 10
+		variation: 1
+		resourceName: th01_abyss01
+		ratlienLair: null
+	}
+]
+overBaseBoxActivables: []
+overBaseDecos: [
+	{
+		cellH: 2
+		cellV: 4
+		variation: 4
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 2
+		cellV: 9
+		variation: 4
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 3
+		cellV: 5
+		variation: 6
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 3
+		cellV: 8
+		variation: 6
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 4
+		cellV: 4
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 4
+		cellV: 6
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 4
+		cellV: 7
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 4
+		cellV: 9
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 5
+		cellV: 2
+		variation: 2
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 6
+		cellV: 5
+		variation: 2
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 6
+		cellV: 9
+		variation: 1
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 8
+		cellV: 2
+		variation: 1
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 10
+		cellV: 5
+		variation: 1
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 10
+		cellV: 9
+		variation: 3
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 11
+		cellV: 2
+		variation: 2
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 11
+		cellV: 7
+		variation: 2
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 13
+		cellV: 4
+		variation: 3
+		resourceName: th01_overBaseDetail
+	}
+	{
+		cellH: 14
+		cellV: 2
+		variation: 1
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 15
+		cellV: 4
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 15
+		cellV: 6
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 15
+		cellV: 7
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 15
+		cellV: 9
+		variation: 2
+		resourceName: th01_overBaseBeam01
+	}
+	{
+		cellH: 16
+		cellV: 5
+		variation: 6
+		resourceName: th01_overBaseDeco01
+	}
+	{
+		cellH: 16
+		cellV: 8
+		variation: 6
+		resourceName: th01_overBaseDeco01
+	}
+]
+overBaseTracks: []
+overBaseIndicatorLights: [
+	{
+		cellH: 3
+		cellV: 2
+	}
+	{
+		cellH: 3
+		cellV: 9
+	}
+	{
+		cellH: 16
+		cellV: 2
+	}
+	{
+		cellH: 16
+		cellV: 9
+	}
+]
+bigDecos: [
+	{
+		cellH: 2
+		cellV: 6
+		variation: 7
+		resourceName: th01_bigDeco
+	}
+]
+robotElevators: []
+cannons: []
+levelTime: 85
+requestedBoxes: 11
+optimalTime: 47
+timeMultiplier: 4
+rankPointsMod: 10
+maxComboRed: -1
+maxComboBlue: -1
+maxComboYellow: -1
+maxNumRobots: 1
+robotSpanTime: 15
+maxNumRatliens: 3
+ratlienSpanTime: 5
+pusherRobot: 50
+explosiveRobot: 50
+challenge: time_elapsed
+challengeValue: 20
+challengeObject: none
+introductionEvent: ""
+}
