@@ -60,6 +60,15 @@ nb-configuration.xml
 
 ## Gradle
 
+# Signing keys and publishing credentials stay local.
+keystore/
+*.jks
+*.keystore
+*.p12
+*.p8
+.env
+.env.*
+
 .gradle
 gradle-app.setting
 build/

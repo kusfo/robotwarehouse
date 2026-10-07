@@ -105,17 +105,16 @@ android {
     }
 
     signingConfigs {
-        debug {
-            keyAlias System.getenv("ROBOTWAREHOUSE_KEY_ALIAS")
-            keyPassword System.getenv("ROBOTWAREHOUSE_KEY_PASSWORD")
-            storeFile file(rootProject.projectDir.absolutePath + '/keystore/debugkeystore.jks')
-            storePassword System.getenv("ROBOTWAREHOUSE_STORE_PASSWORD")
-        }
         release {
-            keyAlias System.getenv("ROBOTWAREHOUSE_KEY_ALIAS")
-            keyPassword System.getenv("ROBOTWAREHOUSE_KEY_PASSWORD")
-            storeFile file(rootProject.projectDir.absolutePath + '/keystore/globalkeystore.jks')
-            storePassword System.getenv("ROBOTWAREHOUSE_STORE_PASSWORD")
+            def releaseStorePassword = System.getenv("ROBOTWAREHOUSE_STORE_PASSWORD")
+            def releaseKeyPassword = System.getenv("ROBOTWAREHOUSE_KEY_PASSWORD")
+            def releaseKeyAlias = System.getenv("ROBOTWAREHOUSE_KEY_ALIAS")
+            if (releaseStorePassword && releaseKeyPassword && releaseKeyAlias) {
+                storeFile file(rootProject.projectDir.absolutePath + "/keystore/globalkeystore.jks")
+                storePassword releaseStorePassword
+                keyPassword releaseKeyPassword
+                keyAlias releaseKeyAlias
+            }
         }
     }
     play {
